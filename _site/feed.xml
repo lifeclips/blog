@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-02T07:23:59+08:00</updated><id>/feed.xml</id><title type="html">My blog</title><entry><title type="html">Marriage and childbearing</title><link href="/2021/07/23/marriage-and-childbearing.html" rel="alternate" type="text/html" title="Marriage and childbearing" /><published>2021-07-23T00:00:00+08:00</published><updated>2021-07-23T00:00:00+08:00</updated><id>/2021/07/23/marriage-and-childbearing</id><content type="html" xml:base="/2021/07/23/marriage-and-childbearing.html">&lt;p&gt;My sister got married a few months ago and had a baby quickly just after that.&lt;/p&gt;
+
+&lt;p&gt;In my eyes, she didn’t love his husband that much and so did her husband, just because the time came, and she naturally thinks she should get married like others. She met her current husband on a blind date. Through the introduction of a mutual friend, they knew each other for a while and then began to prepare to get married.&lt;/p&gt;
+
+&lt;p&gt;Less than a month after they got married, she became pregnant, and then the two families were also immersed in the joy of the upcoming baby. I know that she chose to get pregnant quickly not because she particularly likes children but because the time has come and she should do it.&lt;/p&gt;
+
+&lt;p&gt;She is 28 years old. In Chinese society, it seems unthinkable not to get married at the age of 28, especially for women. I don’t know if this is a tragedy to her or to the child. I hope I won’t end up like this in the future.&lt;/p&gt;</content><author><name></name></author><summary type="html">My sister got married a few months ago and had a baby quickly just after that.</summary></entry><entry><title type="html">Use macOS style shortcuts on Windows</title><link href="/2021/07/07/use-macos-style-shortcuts-on-windows.html" rel="alternate" type="text/html" title="Use macOS style shortcuts on Windows" /><published>2021-07-07T00:00:00+08:00</published><updated>2021-07-07T00:00:00+08:00</updated><id>/2021/07/07/use-macos-style-shortcuts-on-windows</id><content type="html" xml:base="/2021/07/07/use-macos-style-shortcuts-on-windows.html">&lt;p&gt;I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;; # = Win
+; ! = Alt
+; ^ = Ctrl
+; + = Shift
+; &amp;amp; = Combine two keys into a shortcut
+
+; set Capslock key: long press to switch caps lock, short press to switch input language
+SetStoreCapslockMode, off
+CapsLock::
+If StartTime
+    return
+StartTime := A_TickCount
+return
+
+CapsLock up::
+TimeLength := A_TickCount - StartTime
+if (TimeLength &amp;gt;= 1 and TimeLength &amp;lt; 200)
+{
+    Send, ^{Space}
+}
+else if (TimeLength &amp;gt;= 200)
+{
+    Send, {CapsLock}
+}
+StartTime := &quot;&quot;
+return
+
+; open links in new window
+$!LButton::
+SendInput {Ctrl Down}{LButton}{Ctrl Up}
+Return
+
+$!z::
+SendInput {Ctrl Down}{z}{Ctrl Up}
+Return
+
+$!x::
+SendInput {Ctrl Down}{x}{Ctrl Up}
+Return
+
+$!c::
+SendInput {Ctrl Down}{c}{Ctrl Up}
+Return
+
+$!v::
+SendInput {Ctrl Down}{v}{Ctrl Up}
+Return
+
+$!b::
+SendInput {Ctrl Down}{b}{Ctrl Up}
+Return
+
+$!a::
+SendInput {Ctrl Down}{a}{Ctrl Up}
+Return
+
+$!s::
+SendInput {Ctrl Down}{s}{Ctrl Up}
+Return
+
+$!f::
+SendInput {Ctrl Down}{f}{Ctrl Up}
+Return
+
+$!q::
+SendInput {Alt Down}{F4}{Alt Up}
+Return
+
+$!w::
+SendInput {Ctrl Down}{w}{Ctrl Up}
+Return
+
+$!r::
+SendInput {Ctrl Down}{r}{Ctrl Up}
+Return
+
+$!t::
+SendInput {Ctrl Down}{t}{Ctrl Up}
+Return
+
+$!+t::
+SendInput {Ctrl Down}{Shift Down}{t}{Shift Up}{Ctrl Up}
+Return
+
+$!0::
+SendInput {Ctrl Down}{0}{Ctrl Up}
+Return
+
+$!-::
+SendInput {Ctrl Down}{-}{Ctrl Up}
+Return
+
+$!=::
+SendInput {Ctrl Down}{=}{Ctrl Up}
+Return
+
+; custom key to lock computer
+$sc072::
+run rundll32.exe user32.dll`,LockWorkStation
+Return&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Script files on &lt;a href=&quot;https://github.com/hsywme/autohotkey&quot; data-type=&quot;URL&quot; data-id=&quot;https://github.com/hsywme/autohotkey&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.</summary></entry><entry><title type="html">People Should Remember More</title><link href="/2021/07/04/people-should-remember-more.html" rel="alternate" type="text/html" title="People Should Remember More" /><published>2021-07-04T00:00:00+08:00</published><updated>2021-07-04T00:00:00+08:00</updated><id>/2021/07/04/people-should-remember-more</id><content type="html" xml:base="/2021/07/04/people-should-remember-more.html">&lt;p&gt;There are many memorable days in this short week, especially today. You can celebrate the great achievements of our country or your party, but it is more important to remember how many heartbreaking and tragic events are behind it. The anniversary is not a tool used by dictators to demonstrate their status and power but to remember those who were treated unfairly and made efforts and sacrifices for a better society.&lt;/p&gt;
+
+&lt;p&gt;In today’s authoritarian and totalitarian society, it is surprising that praising the dictator for not being loud enough and even just remaining silent is considered a crime, not to mention the illusion that he himself would have an ounce of sympathy for those who have suffered injustice or even paid with their lives, that is impossible.&lt;/p&gt;
+
+&lt;p&gt;People should remember more of those who contributed and paid the price for our present society in the past and not let their sacrifices go to waste.&lt;/p&gt;</content><author><name></name></author><summary type="html">There are many memorable days in this short week, especially today. You can celebrate the great achievements of our country or your party, but it is more important to remember how many heartbreaking and tragic events are behind it. The anniversary is not a tool used by dictators to demonstrate their status and power but to remember those who were treated unfairly and made efforts and sacrifices for a better society.</summary></entry><entry><title type="html">Western Dragons and Chinese Dragons?</title><link href="/2021/06/17/western-dragons-and-chinese-dragons.html" rel="alternate" type="text/html" title="Western Dragons and Chinese Dragons?" /><published>2021-06-17T00:00:00+08:00</published><updated>2021-06-17T00:00:00+08:00</updated><id>/2021/06/17/western-dragons-and-chinese-dragons</id><content type="html" xml:base="/2021/06/17/western-dragons-and-chinese-dragons.html">&lt;p&gt;Recently, I suddenly thought about what is the difference between the images of Western Dragons and Chinese Dragons?&lt;/p&gt;
+
+&lt;p&gt;The Western Dragons are usually portrayed as evil, greedy, and mostly bad characters. In fairy tales, only the bravest and most powerful warrior can defeat the dragon, rescue the princess, save the village, and become a hero.&lt;/p&gt;
+
+&lt;p&gt;The Chinese Dragons are quite the opposite. The Chinese dragon is usually symbolized wealth, good fortune, power, and a symbol of imperial power in the Chinese dynasty.&lt;/p&gt;
+
+&lt;p&gt;So why is there such a contradictory difference? Of course, this is because of the difference in culture. But we should know that dragon is just a tool used to shape the culture. So, what kind of culture people want to create through the image of the dragon is the reason for these differences.&lt;/p&gt;
+
+&lt;p&gt;Both Western and Chinese Dragons symbolized power. That is very clear and simple.&lt;/p&gt;
+
+&lt;p&gt;In the west, the dragon’s power is terrifying. And the Western Dragons show what happens when great power meets total selfishness. If you gain unlimited power, would you destroy the village, kidnap the princess, and take all the gold for yourself? Even the village, the girl, and the gold are totally useless for dragons. So, the culture makes dragons evil and conquerable, but only the strongest and bravest can defeat them.&lt;/p&gt;
+
+&lt;p&gt;On the other side, Chinese Dragons’ power is the good side of power for order and law. Without the greatest power, how can any leader rule the kingdom and keep it from falling? With a strong power, the order and law should be strong, and the nation will be strong too, so after that, good fortune and wealth will follow. Who doesn’t like good fortune and wealth?&lt;/p&gt;
+
+&lt;p&gt;That is the difference. Western culture thinks power is terrible and needs to be controlled, but Chinese culture thinks power is good for the leader to rule and bring good stuff for themselves. Just from the symbolic meaning of the dragon, I can see the enormous difference between Chinese and Western cultures.&lt;/p&gt;</content><author><name></name></author><summary type="html">Recently, I suddenly thought about what is the difference between the images of Western Dragons and Chinese Dragons?</summary></entry><entry><title type="html">A little thought about the tragedy in Chengdu</title><link href="/2021/05/17/a-little-thought-about-the-tragedy-in-chengdu.html" rel="alternate" type="text/html" title="A little thought about the tragedy in Chengdu" /><published>2021-05-17T00:00:00+08:00</published><updated>2021-05-17T00:00:00+08:00</updated><id>/2021/05/17/a-little-thought-about-the-tragedy-in-chengdu</id><content type="html" xml:base="/2021/05/17/a-little-thought-about-the-tragedy-in-chengdu.html">&lt;p&gt;What happened to the student and the final results are not about what is finally announced, nor the CCTV camera system has malfunctioned even nowadays under the big data of AI-controlled society, nor whether there is a “The Top One” presiding the justice, but about in this very today of 2021, their first idea about things happened is still covering it up. In the face of public suspicion, there is not any independent and convincing third-party investigation. The truth is still determined only by the ​”stability first” policy, which began decades ago.&lt;/p&gt;
+
+&lt;p&gt;In today’s modernized economy, PRC is not North Korea or Cuba, so why should the media be tightly controlled? Why should people’s daily communication and public opinion be monitored and censored by big data? Where is the self-confidence of the system of our great nation that propagandized everywhere? The supporters have always desperately defended the ruler but despised his so-called compatriots. They have forgotten why few countries around the world have such censorship and control. In their eyes, the people were only worthy of being supervised, censored, and indoctrinated information.&lt;/p&gt;
+
+&lt;p&gt;This is not normal at all.&lt;/p&gt;
+
+&lt;p&gt;A group of investigative journalists who were active during the Hu and Wen period has now disappeared. The media has not dared to question it anymore. In the 80s, the National People’s Congress was able to summon and interrogate officials, but 40 years later now, it shows “there will never be judicially independent.” The next-door Korean film and television dramas tirelessly tell the stage of judicial justice. The death of Freud was broadcast on TV 24 hours a day. When will it appear in our country?&lt;/p&gt;
+
+&lt;p&gt;Independent and impartial investigations will not bring about a color revolution but will rally people’s hearts. The GFW blocks external information, and strict censorship of media statements also controls internal information. Without the right of supervision, the people can let the power hide dirt and accept wrongdoing, especially at a local and small place. Where there is darkness, there needs to be power to resist it.&lt;/p&gt;
+
+&lt;p&gt;Open-source code is more robust. This is the simplest truth.&lt;/p&gt;</content><author><name></name></author><summary type="html">What happened to the student and the final results are not about what is finally announced, nor the CCTV camera system has malfunctioned even nowadays under the big data of AI-controlled society, nor whether there is a “The Top One” presiding the justice, but about in this very today of 2021, their first idea about things happened is still covering it up. In the face of public suspicion, there is not any independent and convincing third-party investigation. The truth is still determined only by the ​”stability first” policy, which began decades ago.</summary></entry><entry><title type="html">Not angry, just sad and disappointed</title><link href="/2021/05/14/not-angry-just-sad-and-disappointed.html" rel="alternate" type="text/html" title="Not angry, just sad and disappointed" /><published>2021-05-14T00:00:00+08:00</published><updated>2021-05-14T00:00:00+08:00</updated><id>/2021/05/14/not-angry-just-sad-and-disappointed</id><content type="html" xml:base="/2021/05/14/not-angry-just-sad-and-disappointed.html">&lt;p&gt;I feel despondent and disappointed but not angry about what happened in Chengdu recently. Living in a place where you can’t speak, see or hear any truth, it’s no wonder why the people have little desire to live nowadays.&lt;/p&gt;
+
+&lt;p&gt;How can people feel free in an environment where life is highly authoritarian and opaque? The most interesting thing is that they also have a pro-people word in their official name.&lt;/p&gt;
+
+&lt;p&gt;I can feel that, in fact, most of us are aware of the harshness of the current environment and what has been taken away from us. It’s just that under high pressure, we have to cooperate with HIM as a qualified actor. I am one of them too.&lt;/p&gt;
+
+&lt;p&gt;It is what it is.&lt;/p&gt;</content><author><name></name></author><summary type="html">I feel despondent and disappointed but not angry about what happened in Chengdu recently. Living in a place where you can’t speak, see or hear any truth, it’s no wonder why the people have little desire to live nowadays.</summary></entry><entry><title type="html">Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced]</title><link href="/2021/04/15/like-a-larva-holding-on-for-transformation-chen-yi-wen.html" rel="alternate" type="text/html" title="Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced]" /><published>2021-04-15T00:00:00+08:00</published><updated>2021-04-15T00:00:00+08:00</updated><id>/2021/04/15/like-a-larva-holding-on-for-transformation-chen-yi-wen</id><content type="html" xml:base="/2021/04/15/like-a-larva-holding-on-for-transformation-chen-yi-wen.html">&lt;p&gt;I would like you to&lt;/p&gt;
+
+&lt;p&gt;firmly resist your weakness&lt;/p&gt;
+
+&lt;p&gt;like a chrysalis holding back a butterfly, a maple leaf resisting the autumn&lt;/p&gt;
+
+&lt;p&gt;a newly splashed&lt;/p&gt;
+
+&lt;p&gt;droplet resisting breakup&lt;/p&gt;
+
+&lt;p&gt;I would like you to&lt;/p&gt;
+
+&lt;p&gt;balance your inner beauty&lt;/p&gt;
+
+&lt;p&gt;like the structure of a snowflake, the four petals of a finger tree flower&lt;/p&gt;
+
+&lt;p&gt;a quatrain on a yellowed paper scroll:&lt;/p&gt;
+
+&lt;p&gt;“a still night, an empty spring mountain”&lt;/p&gt;
+
+&lt;p&gt;I would like you to&lt;/p&gt;
+
+&lt;p&gt;tolerate the secrets of a narcissus&lt;/p&gt;
+
+&lt;p&gt;forgive the twists of a moonlit river&lt;/p&gt;
+
+&lt;p&gt;look straight at the murky sky as rain falls down&lt;/p&gt;
+
+&lt;p&gt;just like listening to a naked prayer&lt;/p&gt;
+
+&lt;p&gt;like the ocean&lt;/p&gt;
+
+&lt;p&gt;embracing the absolution of a storm&lt;/p&gt;
+
+&lt;p&gt;Then, maybe you would be willing&lt;/p&gt;
+
+&lt;p&gt;to walk through a declining border town&lt;/p&gt;
+
+&lt;p&gt;through a prosperous metropolis&lt;/p&gt;
+
+&lt;p&gt;see life, see death&lt;/p&gt;
+
+&lt;p&gt;see all the bustle and transience&lt;/p&gt;
+
+&lt;p&gt;dignity and cold lifelessness&lt;/p&gt;
+
+&lt;p&gt;Sometimes, life is&lt;/p&gt;
+
+&lt;p&gt;as quietly beautiful as a poem, as desolate as a vine&lt;/p&gt;
+
+&lt;p&gt;as intense as a soaring eagle&lt;/p&gt;
+
+&lt;p&gt;as lonely as a dust-covered stele&lt;/p&gt;
+
+&lt;p&gt;And so time passes, places alter, faces change&lt;/p&gt;
+
+&lt;p&gt;it has been a long journey&lt;/p&gt;
+
+&lt;p&gt;we return to the room we set off from&lt;/p&gt;
+
+&lt;p&gt;origin and destination curl into a perfect ring&lt;/p&gt;
+
+&lt;p&gt;I shall recognize the look in your eyes after calibration:&lt;/p&gt;
+
+&lt;p&gt;clear, unswerving&lt;/p&gt;
+
+&lt;p&gt;like steel beads that do not rust&lt;/p&gt;
+
+&lt;p&gt;roundly, in a dark room&lt;/p&gt;
+
+&lt;p&gt;reflecting pure light&lt;/p&gt;
+
+&lt;p&gt;— English version translated by &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://en.wikipedia.org/wiki/Audrey_Tang&quot; target=&quot;_blank&quot;&gt;Audrey Tang&lt;/a&gt;, the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.&lt;figure class=&quot;wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;像蛹忍住蝶--陳依文&quot;&gt;像蛹忍住蝶 / 陳依文&lt;/h3&gt;
+
+&lt;p&gt;我想請你&lt;/p&gt;
+
+&lt;p&gt;堅強地忍住脆弱&lt;/p&gt;
+
+&lt;p&gt;像蛹忍住蝶，楓葉忍住秋天&lt;/p&gt;
+
+&lt;p&gt;新濺下的&lt;/p&gt;
+
+&lt;p&gt;一枚水滴忍住破散&lt;/p&gt;
+
+&lt;p&gt;我想請你&lt;/p&gt;
+
+&lt;p&gt;平衡內在的美麗&lt;/p&gt;
+
+&lt;p&gt;如雪花的結構、流蘇的四瓣&lt;/p&gt;
+
+&lt;p&gt;泛黃的紙卷上&lt;/p&gt;
+
+&lt;p&gt;夜靜春山空的一首五絕&lt;/p&gt;
+
+&lt;p&gt;我想請你&lt;/p&gt;
+
+&lt;p&gt;寬容一株水仙的祕密&lt;/p&gt;
+
+&lt;p&gt;原宥一條月江的曲折&lt;/p&gt;
+
+&lt;p&gt;直視陰雨直落的灰霾天空&lt;/p&gt;
+
+&lt;p&gt;如同傾聽一句赤裸的禱詞&lt;/p&gt;
+
+&lt;p&gt;像海洋&lt;/p&gt;
+
+&lt;p&gt;擁抱一場暴風雨的告解&lt;/p&gt;
+
+&lt;p&gt;然後，或許你願意&lt;/p&gt;
+
+&lt;p&gt;走上沒落的邊城&lt;/p&gt;
+
+&lt;p&gt;繁華的都心&lt;/p&gt;
+
+&lt;p&gt;看看生，看看死&lt;/p&gt;
+
+&lt;p&gt;看看一切熱鬧與無常&lt;/p&gt;
+
+&lt;p&gt;尊嚴與肅殺&lt;/p&gt;
+
+&lt;p&gt;生命有時&lt;/p&gt;
+
+&lt;p&gt;靜美如詩，荒涼如蔓&lt;/p&gt;
+
+&lt;p&gt;激越如鷹翱翔&lt;/p&gt;
+
+&lt;p&gt;寂寞如碑蒙塵&lt;/p&gt;
+
+&lt;p&gt;至末時移、境遷，容顏更改&lt;/p&gt;
+
+&lt;p&gt;旅途得很久了&lt;/p&gt;
+
+&lt;p&gt;我們回到出發時的房間&lt;/p&gt;
+
+&lt;p&gt;原點與終點繞成完美的環&lt;/p&gt;
+
+&lt;p&gt;我將認出你標定後的眼神&lt;/p&gt;
+
+&lt;p&gt;洗鍊貞定&lt;/p&gt;
+
+&lt;p&gt;如不鏽的鋼珠&lt;/p&gt;
+
+&lt;p&gt;圓整地，於暗室中&lt;/p&gt;
+
+&lt;p&gt;反射出簡淨的光芒&lt;/p&gt;
+
+&lt;p class=&quot;has-small-font-size&quot;&gt;
+  [END]
+&lt;/p&gt;
+
+&lt;p class=&quot;has-small-font-size&quot;&gt;
+  &lt;em&gt;* Sharing for learning purposes.&lt;/em&gt;
+&lt;/p&gt;</content><author><name></name></author><summary type="html">I would like you to</summary></entry><entry><title type="html">I love reading blogs</title><link href="/2021/03/23/i-love-reading-blogs.html" rel="alternate" type="text/html" title="I love reading blogs" /><published>2021-03-23T00:00:00+08:00</published><updated>2021-03-23T00:00:00+08:00</updated><id>/2021/03/23/i-love-reading-blogs</id><content type="html" xml:base="/2021/03/23/i-love-reading-blogs.html">&lt;p&gt;I love reading blogs, especially their About Me pages. By browsing other people’s stories and feeling the path of their lives, I can rethink myself differently.&lt;/p&gt;
+
+&lt;p&gt;I am a small-town boy. Unlike those boys who seem to be lively, I am not too interested in most things. Even with some of the popular recreational activities, I also quickly get bored. When it came to studying, it’s the same. I know that learning is fundamental, especially in the Chinese college entrance examination environment. But I don’t think I work very hard, and I keep on the benchmark line for every subject to avoid failing. But all in all, in the end, I was admitted to a university that was not very good but only around the baseline.&lt;/p&gt;
+
+&lt;p&gt;I was muddled and unsure of the future direction at that time. Unlike the exciting college life of others, mine seems unusually plain. Going to class, eating, and sleeping it’s the same things every day.&lt;/p&gt;
+
+&lt;p&gt;Similarly, after graduating with not particularly outstanding but ordinary grades, I ended my university life. Then I have worked in a typical company for about a year. Even if this job was not what I like, I can adapt quickly and adjust to the normal state.&lt;/p&gt;
+
+&lt;p&gt;Just in a random early morning, there was no one on the street. I was on my way to work, and I closed my eyes and listened to the music in my headphones. Suddenly at that point, I seemed to realize that every day for the past year has been the same, just repeating itself over and over again. I was shocked, and I find that I only live for one day and the rest 70 years of my life are just repetitions.&lt;/p&gt;
+
+&lt;p&gt;At that time, I decided to change my current life, but I didn’t know what part of my life should be changed. After a couple of days of considering, I chose to continue studying, even though I wasn’t sure I was really interested in it. Anyway, I quickly quit this job and prepared to apply to graduate schools.&lt;/p&gt;
+
+&lt;p&gt;Time seems to have returned to the high school study time, and the same repetition happened again. Studying, eating, sleeping, day by day. But during that time, a friend accompanied me to study together, and it seemed that my life routine had changed a little bit.&lt;/p&gt;
+
+&lt;p&gt;After several months of preparation, I was successfully admitted to a graduate university. And I will be starting my further study career in September this year. It seems that everything is going well now, but I feel that my future life will still be as repetitive and uninspiring as before.&lt;/p&gt;
+
+&lt;p&gt;Let me talk about other things. My age and family may ask me to live according to the life path they set for me, but I know I will let them down one day in the future. When they see that I will not marry a woman and may not have children, I wonder if my daily life will change? You wonder why? Because I like men and I am gay. And being gay is not allowed in China.&lt;/p&gt;
+
+&lt;p&gt;I always strangely feel scared and peaceful at the same time.&lt;/p&gt;
+
+&lt;p&gt;And there are some collections I explore more blogs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mostly in Chinese:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.foreverblog.cn/&quot;&gt;https://foreverblog.cn&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/volfclub/travellings&quot;&gt;https://github.com/volfclub/travellings&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mostly in English:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/XXIIVV/webring&quot;&gt;https://github.com/XXIIVV/webring&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I love reading blogs, especially their About Me pages. By browsing other people’s stories and feeling the path of their lives, I can rethink myself differently.</summary></entry><entry><title type="html">Just wish you well / the Wood and Soil</title><link href="/2021/02/15/just-wish-you-well-the-wood-and-the-soil.html" rel="alternate" type="text/html" title="Just wish you well / the Wood and Soil" /><published>2021-02-15T00:00:00+08:00</published><updated>2021-02-15T00:00:00+08:00</updated><id>/2021/02/15/just-wish-you-well-the-wood-and-the-soil</id><content type="html" xml:base="/2021/02/15/just-wish-you-well-the-wood-and-the-soil.html">&lt;p&gt;I don’t know when our relationship faded. Maybe I wasn’t your best friend, but you were my best. Maybe not that accident, we will not change, not as cold as now.&lt;/p&gt;
+
+&lt;p&gt;Remember the old you, cheerful, lively, never sad about miscellaneous things. Look at your back, looking at your arms, are so charming. I missed that moment when you carried me on your back; I missed that smile when you fed me; I missed that sincerity when you talked about the problem for me. I and you, the alternation of hearts, is the basis of our friendship.&lt;/p&gt;
+
+&lt;p&gt;I have few friends. I remember meeting you in the heavy rain at the beginning of high school without knowing you, and you smiled at me, and I was hooked. Although I didn’t share a table with you during the three-day entrance education, I always looked back at you and sitting in the first row. I just made a terrible impression on the teacher. At the time of enrollment, the teacher said, “xx! I used to have a student named xx, so Tian!” At first, I didn’t understand, but then I realized that Tian meant naughty. The next day, I was warned by the teacher, but it didn’t help, I still looked at you. After a few weeks, finally, I sat behind you, looking at the gray hair on your head. I think it is also too hard to study, perhaps like me, and because of the miss. Another chance coincidence, I became a table with you, always passive I also took the initiative to approach you, do the usual table will do things, you like to stay up late, and sometimes doze off, I became your little sentry. Although I do not stay up late, I also have the habit of dozing off, but looking at you sleeping, I no longer want to sleep. At that time, we were inseparable, perhaps the closest friends in the world. I saw you as loving as a lover. I laughed with you and cried with you, even though you never cried.&lt;/p&gt;
+
+&lt;p&gt;I tell you everything about me, and you tell me your sorrows. I understand you, but you can’t see through me, and I don’t know if that’s why we’re estranged. Fate ran out, and you were placed in the top left corner of the classroom while I was in the top right corner. I panicked, and for some reason, I also privately begged the teacher to move me back, even if it was just a little closer, a little closer. You quickly made new friends, and the extremely introverted me was at a loss for words. My new deskmate was nice and civil, except that my thoughts of you had long since drowned out the sound of his voice calling me. Mornings, afternoons, any time we were supposed to be together, we went nowhere. Our communication, movements, and even eyes are less and less, gradually fading away, far away. Now you, more and more gray hair, I know you still like to stay up late, but you never dozed off again while I was in place, fell asleep, and never woke up. I know we can’t go back; I hope you’re well; I wish you happiness.&lt;/p&gt;
+
+&lt;p&gt;Some people say that a friend is a lover, the meaning of a friend is a relative, and a friend is a very person in front of you. The only thing in front of me is a white mist that envelops my eyes, and I can’t look at your face again.&lt;/p&gt;
+
+&lt;p&gt;I only wish you happiness, health, and going well.&lt;/p&gt;
+
+&lt;p class=&quot;has-small-font-size&quot;&gt;
+  &lt;br /&gt;&lt;br /&gt;* The Wood and Soil &amp;#8220;木土&amp;#8221; is my pen name for this article. Initially published in &lt;em&gt;Qicao Literature &amp;#8211; The Sprout&lt;/em&gt; of the 36th issue of &lt;em&gt;Colorful Stones&lt;/em&gt; on May 30, 2015.
+&lt;/p&gt;</content><author><name></name></author><summary type="html">I don’t know when our relationship faded. Maybe I wasn’t your best friend, but you were my best. Maybe not that accident, we will not change, not as cold as now.</summary></entry><entry><title type="html">Dark Mode Support</title><link href="/2020/12/13/dark-mode-support.html" rel="alternate" type="text/html" title="Dark Mode Support" /><published>2020-12-13T00:00:00+08:00</published><updated>2020-12-13T00:00:00+08:00</updated><id>/2020/12/13/dark-mode-support</id><content type="html" xml:base="/2020/12/13/dark-mode-support.html">&lt;p&gt;The main page of my web is supporting dark mode with system control. It will automatically change color mode according to the system without any manual trigger.&lt;/p&gt;
+
+&lt;p&gt;Just add a small clip below to main css file.&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;@media (prefers-color-scheme: dark) {
+
+}&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For Example:&lt;/p&gt;
+
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;/* light mode */
+:root {
+    --main-color: rgb(222, 222, 222);
+    --main-deep-color: rgb(197, 167, 167);
+    --main-pink-color: rgb(238, 229, 229);
+}
+
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+      --main-color: #000;
+      --main-pink-color: rgb(34, 32, 32);
+      --main-deep-color: #000;
+    }
+}&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">The main page of my web is supporting dark mode with system control. It will automatically change color mode according to the system without any manual trigger.</summary></entry></feed>
