@@ -2,7 +2,6 @@
 title: People Should Remember More
 date: 2021-07-04
 layout: post
-categories: feeling
 ---
 There are many memorable days in this short week, especially today. You can celebrate the great achievements of our country or your party, but it is more important to remember how many heartbreaking and tragic events are behind it. The anniversary is not a tool used by dictators to demonstrate their status and power but to remember those who were treated unfairly and made efforts and sacrifices for a better society.
 

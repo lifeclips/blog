@@ -2,7 +2,6 @@
 title: Perfectly Hackintosh Build
 date: 2019-12-14
 layout: post
-categories: webing
 ---
 CPU: Intel i7-9700
 

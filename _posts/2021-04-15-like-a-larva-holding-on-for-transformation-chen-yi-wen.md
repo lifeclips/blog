@@ -2,7 +2,6 @@
 title: 'Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced]'
 date: 2021-04-15
 layout: post
-categories: reading
 ---
 I would like you to
 

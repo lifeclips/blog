@@ -2,7 +2,6 @@
 title: 'Two Families, Two Fates: When the Misdiagnosis is Child Abuse [Reproduced]'
 date: 2020-08-30
 layout: post
-categories: reading
 ---
 <p class="has-text-align-center has-medium-font-size">
   <strong>The power of child-abuse pediatric specialists and parents&#8217; unequal journey toward justice</strong>

@@ -2,7 +2,6 @@
 title: A little thought about the tragedy in Chengdu
 date: 2021-05-17
 layout: post
-categories: feeling
 ---
 What happened to the student and the final results are not about what is finally announced, nor the CCTV camera system has malfunctioned even nowadays under the big data of AI-controlled society, nor whether there is a &#8220;The Top One&#8221; presiding the justice, but about in this very today of 2021, their first idea about things happened is still covering it up. In the face of public suspicion, there is not any independent and convincing third-party investigation. The truth is still determined only by the ​&#8221;stability first&#8221; policy, which began decades ago.
 

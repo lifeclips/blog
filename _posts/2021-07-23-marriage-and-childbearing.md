@@ -2,7 +2,6 @@
 title: Marriage and childbearing
 date: 2021-07-23
 layout: post
-categories: feeling
 ---
 My sister got married a few months ago and had a baby quickly just after that.
 

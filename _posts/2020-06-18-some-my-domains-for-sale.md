@@ -2,7 +2,6 @@
 title: Some of my domains are for sale
 date: 2020-06-18
 layout: post
-categories: webing
 ---
 All of my domains are below:
 

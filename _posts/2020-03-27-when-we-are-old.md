@@ -2,7 +2,6 @@
 title: When we are old
 date: 2020-03-27
 layout: post
-categories: feeling
 ---
 You and I are old.
 

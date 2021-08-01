@@ -2,7 +2,6 @@
 title: Western Dragons and Chinese Dragons?
 date: 2021-06-17
 layout: post
-categories: feeling
 ---
 Recently, I suddenly thought about what is the difference between the images of Western Dragons and Chinese Dragons?
 

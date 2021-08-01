@@ -2,7 +2,6 @@
 title: Dark Mode Support
 date: 2020-12-13
 layout: post
-categories: webing
 ---
 The main page of my web is supporting dark mode with system control. It will automatically change color mode according to the system without any manual trigger.
 

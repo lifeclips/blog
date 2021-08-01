@@ -2,7 +2,6 @@
 title: Just wish you well / the Wood and Soil
 date: 2021-02-15
 layout: post
-categories: feeling
 ---
 I don&#8217;t know when our relationship faded. Maybe I wasn&#8217;t your best friend, but you were my best. Maybe not that accident, we will not change, not as cold as now.
 

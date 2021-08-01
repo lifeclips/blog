@@ -2,7 +2,6 @@
 title: Not angry, just sad and disappointed
 date: 2021-05-14
 layout: post
-categories: feeling
 ---
 I feel despondent and disappointed but not angry about what happened in Chengdu recently. Living in a place where you can&#8217;t speak, see or hear any truth, it&#8217;s no wonder why the people have little desire to live nowadays.
 

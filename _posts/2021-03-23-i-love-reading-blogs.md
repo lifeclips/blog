@@ -2,7 +2,6 @@
 title: I love reading blogs
 date: 2021-03-23
 layout: post
-categories: feeling
 ---
 I love reading blogs, especially their About Me pages. By browsing other people&#8217;s stories and feeling the path of their lives, I can rethink myself differently.
 
