@@ -1,16 +1,39 @@
+<?php
+/**
+ * Template part for displaying a message that posts cannot be found
+ *
+ * @link       https://codex.wordpress.org/Template_Hierarchy
+ *
+ * @package    Arke
+ * @copyright  Copyright (c) 2018, Danny Cooper
+ * @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ */
+
+?>
+
 <!DOCTYPE html>
-<html>
+<html <?php language_attributes(); ?>>
 	<head>
-		<meta charset="utf-8">
+		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<?php wp_head(); ?>
 	</head>
-	<body>
+	<body <?php body_class(); ?>>
+		<?php wp_body_open(); ?>
 			<header class="site-header clear">
 					<div class="site-branding">
+
+						<?php if ( is_front_page() && is_home() ) : ?>
+
 							<h1 class="site-title">
-								<a href="{{ site_url }}" rel="home">
+								<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
+									<?php bloginfo( 'name' ); ?>
 								</a>
 							</h1>
+
+						<?php else : ?>
+
 							<p class="site-title">
 								<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
 									<?php bloginfo( 'name' ); ?>
@@ -35,18 +58,3 @@
 			</header><!-- .site-header -->
 			<div class="site-content">
 					<div id="content-area" class="content-area">
-
-{{ content }}
-
-</div><!-- .content-area -->
-</div><!-- .site-content -->
-<?php if ( get_page_by_path( 'archives' ) ) : ?>
-<footer class="site-footer">
-<a href="<?php echo esc_url( site_url( 'archives' ) ); ?>"><?php esc_html_e( 'View All Posts &rarr;', 'arke' ); ?></a>
-</footer><!-- .site-footer -->
-<?php else : ?>
-<?php arke_the_posts_navigation(); ?>
-<?php endif; ?>
-<?php wp_footer(); ?>
-</body>
-</html>
