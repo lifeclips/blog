@@ -32,7 +32,7 @@ plugins: [jekyll-paginate]
 paginate: 6
 paginate_path: "page:num"
 
-permalink: {{ site.baseurl }}/:title
+permalink: /blog/:title
 
 # Build settings
 
