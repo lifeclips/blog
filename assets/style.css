@@ -88,3 +88,34 @@ p {
 .next {
   float: right;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: var(--dark-color);
+    background-color: var(--dark-bgcolor);
+  }
+
+  a {
+    color: var(--dark-link-color);
+  }
+
+  a:hover {
+    color: var(--dark-link-color);
+  }
+
+  h1, h2, h3 {
+    color: var(--dark-title-color);
+  }
+
+  h1 a, h3 a {
+    color: var(--dark-title-color);
+  }
+
+  .site-title {
+    color: var(--dark-title-color);
+  }
+
+  .posts {
+    border-bottom: 1px solid var(--dark-border-color);
+  }
+}
