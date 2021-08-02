@@ -32,8 +32,6 @@ plugins: [jekyll-paginate]
 paginate: 6
 paginate_path: "page:num"
 
-permalink: /blog/:title
-
 # Build settings
 
 # Exclude from processing.
