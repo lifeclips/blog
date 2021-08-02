@@ -1,0 +1,249 @@
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>my blog</title>
+  <link rel="icon" href="/assets/favicon.ico"/>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+
+<body>
+<header>
+   <div class="site-title">
+    <h3><a href="/"> my blog </a></h3>
+   </div>
+</header>
+
+
+
+<div class="main">
+
+
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="/2021/07/23/marriage-and-childbearing.html">Marriage and childbearing</a></h1>
+  </div>
+  <div class="post-content">
+    <p>My sister got married a few months ago and had a baby quickly just after that.</p>
+
+<p>In my eyes, she didn’t love his husband that much and so did her husband, just because the time came, and she naturally thinks she should get married like others. She met her current husband on a blind date. Through the introduction of a mutual friend, they knew each other for a while and then began to prepare to get married.</p>
+
+<p>Less than a month after they got married, she became pregnant, and then the two families were also immersed in the joy of the upcoming baby. I know that she chose to get pregnant quickly not because she particularly likes children but because the time has come and she should do it.</p>
+
+<p>She is 28 years old. In Chinese society, it seems unthinkable not to get married at the age of 28, especially for women. I don’t know if this is a tragedy to her or to the child. I hope I won’t end up like this in the future.</p>
+
+  </div>
+</div>
+
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="/2021/07/07/use-macos-style-shortcuts-on-windows.html">Use macOS style shortcuts on Windows</a></h1>
+  </div>
+  <div class="post-content">
+    <p>I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.</p>
+
+<pre><code class="language-AutoHotKey">; # = Win
+; ! = Alt
+; ^ = Ctrl
+; + = Shift
+; &amp; = Combine two keys into a shortcut
+
+; set Capslock key: long press to switch caps lock,
+;                   short press to switch input language
+SetStoreCapslockMode, off
+CapsLock::
+If StartTime
+    return
+StartTime := A_TickCount
+return
+
+CapsLock up::
+TimeLength := A_TickCount - StartTime
+if (TimeLength &amp;gt;= 1 and TimeLength &amp;lt; 200)
+{
+    Send, ^{Space}
+}
+else if (TimeLength &amp;gt;= 200)
+{
+    Send, {CapsLock}
+}
+StartTime := ""
+return
+
+; open links in new window
+$!LButton::
+SendInput {Ctrl Down}{LButton}{Ctrl Up}
+Return
+
+$!z::
+SendInput {Ctrl Down}{z}{Ctrl Up}
+Return
+
+$!x::
+SendInput {Ctrl Down}{x}{Ctrl Up}
+Return
+
+$!c::
+SendInput {Ctrl Down}{c}{Ctrl Up}
+Return
+
+$!v::
+SendInput {Ctrl Down}{v}{Ctrl Up}
+Return
+
+$!b::
+SendInput {Ctrl Down}{b}{Ctrl Up}
+Return
+
+$!a::
+SendInput {Ctrl Down}{a}{Ctrl Up}
+Return
+
+$!s::
+SendInput {Ctrl Down}{s}{Ctrl Up}
+Return
+
+$!f::
+SendInput {Ctrl Down}{f}{Ctrl Up}
+Return
+
+$!q::
+SendInput {Alt Down}{F4}{Alt Up}
+Return
+
+$!w::
+SendInput {Ctrl Down}{w}{Ctrl Up}
+Return
+
+$!r::
+SendInput {Ctrl Down}{r}{Ctrl Up}
+Return
+
+$!t::
+SendInput {Ctrl Down}{t}{Ctrl Up}
+Return
+
+$!+t::
+SendInput {Ctrl Down}{Shift Down}{t}{Shift Up}{Ctrl Up}
+Return
+
+$!0::
+SendInput {Ctrl Down}{0}{Ctrl Up}
+Return
+
+$!-::
+SendInput {Ctrl Down}{-}{Ctrl Up}
+Return
+
+$!=::
+SendInput {Ctrl Down}{=}{Ctrl Up}
+Return
+
+; custom key to lock computer
+$sc072::
+run rundll32.exe user32.dll`,LockWorkStation
+Return
+</code></pre>
+
+<p>Script files on <a href="https://github.com/hsywme/autohotkey">Github</a></p>
+
+  </div>
+</div>
+
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="/2021/07/04/people-should-remember-more.html">People Should Remember More</a></h1>
+  </div>
+  <div class="post-content">
+    <p>There are many memorable days in this short week, especially today. You can celebrate the great achievements of our country or your party, but it is more important to remember how many heartbreaking and tragic events are behind it. The anniversary is not a tool used by dictators to demonstrate their status and power but to remember those who were treated unfairly and made efforts and sacrifices for a better society.</p>
+
+<p>In today’s authoritarian and totalitarian society, it is surprising that praising the dictator for not being loud enough and even just remaining silent is considered a crime, not to mention the illusion that he himself would have an ounce of sympathy for those who have suffered injustice or even paid with their lives, that is impossible.</p>
+
+<p>People should remember more of those who contributed and paid the price for our present society in the past and not let their sacrifices go to waste.</p>
+
+  </div>
+</div>
+
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="/2021/06/17/western-dragons-and-chinese-dragons.html">Western Dragons and Chinese Dragons?</a></h1>
+  </div>
+  <div class="post-content">
+    <p>Recently, I suddenly thought about what is the difference between the images of Western Dragons and Chinese Dragons?</p>
+
+<p>The Western Dragons are usually portrayed as evil, greedy, and mostly bad characters. In fairy tales, only the bravest and most powerful warrior can defeat the dragon, rescue the princess, save the village, and become a hero.</p>
+
+<p>The Chinese Dragons are quite the opposite. The Chinese dragon is usually symbolized wealth, good fortune, power, and a symbol of imperial power in the Chinese dynasty.</p>
+
+<p>So why is there such a contradictory difference? Of course, this is because of the difference in culture. But we should know that dragon is just a tool used to shape the culture. So, what kind of culture people want to create through the image of the dragon is the reason for these differences.</p>
+
+<p>Both Western and Chinese Dragons symbolized power. That is very clear and simple.</p>
+
+<p>In the west, the dragon’s power is terrifying. And the Western Dragons show what happens when great power meets total selfishness. If you gain unlimited power, would you destroy the village, kidnap the princess, and take all the gold for yourself? Even the village, the girl, and the gold are totally useless for dragons. So, the culture makes dragons evil and conquerable, but only the strongest and bravest can defeat them.</p>
+
+<p>On the other side, Chinese Dragons’ power is the good side of power for order and law. Without the greatest power, how can any leader rule the kingdom and keep it from falling? With a strong power, the order and law should be strong, and the nation will be strong too, so after that, good fortune and wealth will follow. Who doesn’t like good fortune and wealth?</p>
+
+<p>That is the difference. Western culture thinks power is terrible and needs to be controlled, but Chinese culture thinks power is good for the leader to rule and bring good stuff for themselves. Just from the symbolic meaning of the dragon, I can see the enormous difference between Chinese and Western cultures.</p>
+
+  </div>
+</div>
+
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="/2021/05/17/a-little-thought-about-the-tragedy-in-chengdu.html">A little thought about the tragedy in Chengdu</a></h1>
+  </div>
+  <div class="post-content">
+    <p>What happened to the student and the final results are not about what is finally announced, nor the CCTV camera system has malfunctioned even nowadays under the big data of AI-controlled society, nor whether there is a “The Top One” presiding the justice, but about in this very today of 2021, their first idea about things happened is still covering it up. In the face of public suspicion, there is not any independent and convincing third-party investigation. The truth is still determined only by the ​”stability first” policy, which began decades ago.</p>
+
+<p>In today’s modernized economy, PRC is not North Korea or Cuba, so why should the media be tightly controlled? Why should people’s daily communication and public opinion be monitored and censored by big data? Where is the self-confidence of the system of our great nation that propagandized everywhere? The supporters have always desperately defended the ruler but despised his so-called compatriots. They have forgotten why few countries around the world have such censorship and control. In their eyes, the people were only worthy of being supervised, censored, and indoctrinated information.</p>
+
+<p>This is not normal at all.</p>
+
+<p>A group of investigative journalists who were active during the Hu and Wen period has now disappeared. The media has not dared to question it anymore. In the 80s, the National People’s Congress was able to summon and interrogate officials, but 40 years later now, it shows “there will never be judicially independent.” The next-door Korean film and television dramas tirelessly tell the stage of judicial justice. The death of Freud was broadcast on TV 24 hours a day. When will it appear in our country?</p>
+
+<p>Independent and impartial investigations will not bring about a color revolution but will rally people’s hearts. The GFW blocks external information, and strict censorship of media statements also controls internal information. Without the right of supervision, the people can let the power hide dirt and accept wrongdoing, especially at a local and small place. Where there is darkness, there needs to be power to resist it.</p>
+
+<p>Open-source code is more robust. This is the simplest truth.</p>
+
+  </div>
+</div>
+
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="/2021/05/14/not-angry-just-sad-and-disappointed.html">Not angry, just sad and disappointed</a></h1>
+  </div>
+  <div class="post-content">
+    <p>I feel despondent and disappointed but not angry about what happened in Chengdu recently. Living in a place where you can’t speak, see or hear any truth, it’s no wonder why the people have little desire to live nowadays.</p>
+
+<p>How can people feel free in an environment where life is highly authoritarian and opaque? The most interesting thing is that they also have a pro-people word in their official name.</p>
+
+<p>I can feel that, in fact, most of us are aware of the harshness of the current environment and what has been taken away from us. It’s just that under high pressure, we have to cooperate with HIM as a qualified actor. I am one of them too.</p>
+
+<p>It is what it is.</p>
+
+  </div>
+</div>
+
+
+</div>
+
+
+<div class="pagination">
+  <div class="prev">
+  
+  </div>
+
+  <div class="next">
+  
+    <a href="/page2">Next Page</a>
+  
+  </div>
+</div>
+
+
+
+
+ </body>
+ </html>
+
