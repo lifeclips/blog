@@ -3,15 +3,18 @@ title: Use macOS style shortcuts on Windows
 date: 2021-07-07
 layout: post
 ---
+
 I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.
 
-<pre class="wp-block-code"><code>; # = Win
+```AutoHotKey
+; # = Win
 ; ! = Alt
 ; ^ = Ctrl
 ; + = Shift
 ; & = Combine two keys into a shortcut
 
-; set Capslock key: long press to switch caps lock, short press to switch input language
+; set Capslock key: long press to switch caps lock,
+;                   short press to switch input language
 SetStoreCapslockMode, off
 CapsLock::
 If StartTime
@@ -104,6 +107,7 @@ Return
 ; custom key to lock computer
 $sc072::
 run rundll32.exe user32.dll`,LockWorkStation
-Return</code></pre>
+Return
+```
 
-Script files on <a href="https://github.com/hsywme/autohotkey" data-type="URL" data-id="https://github.com/hsywme/autohotkey">Github</a>
+Script files on [Github](https://github.com/hsywme/autohotkey)

@@ -1,7 +1,12 @@
 {% include header.html %}
-
-<h2><a href="{{ page.url }}">{{ page.title }}</a><h2>
-{{ page.content }}
-
-
+<div class="main">
+<div class="posts">
+  <div class="post-title">
+    <h1><a href="{{ page.url }}"> {{ page.title }} </a></h1>
+  </div>
+  <div class="post-content">
+      {{ content }}
+  </div>
+</div>
+</div>
 {% include footer.html %}
