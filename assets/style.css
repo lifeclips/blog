@@ -1,37 +1,63 @@
 @charset "UTF-8";
 /* CSS Document */
 
+:root {
+  --light-color: #1d1d1f;
+  --light-bgcolor: #f5f5f7;
+  --light-title-color: #333;
+  --light-border-color: #d6d6d6;
+  --light-link-color: #06c;
+
+  --dark-color: #f5f5f7;
+  --dark-bgcolor: #1d1d1f;
+  --dark-title-color: #f5f5f7;
+  --dark-border-color: #d6d6d6;
+  --dark-link-color: #2997ff;
+}
+
 @font-face {
     font-family: 'hello';
-    src: url("https://cdn.jsdelivr.net/gh/hsywme/i/hello.ttf");
+    src: url("/assets/hello.ttf");
+}
+
+h1, h2, h3 {
+  margin: 0;
+  line-height: 1.25;
+  color: var(--light-title-color);
 }
 
 body {
-    font-family: hello, sans-serif;
-    color: #1d1d1f;
-    background-color: #f5f5f7;
-	  max-width: 640px;
-    margin-left: auto;
-    margin-right: auto;
+  font-family: hello, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--light-color);
+  background-color: var(--light-bgcolor);
+	max-width: 640px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a {
-    text-decoration: none;
-    color: #1d1d1f;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
-    color: #06c;
+  color: var(--light-link-color);
+  text-decoration: underline;
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        color: #f5f5f7;
-        background-color: #1d1d1f;
-    }
+p {
+  margin: 1.5em 0 1.5em;
+}
 
-    a {
-        color: #2997ff;
-    }
+.site-title {
+  padding: 50px 0 25px;
+}
+
+.posts {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid var(--light-border-color);
+  margin-bottom: 25px;
 }
