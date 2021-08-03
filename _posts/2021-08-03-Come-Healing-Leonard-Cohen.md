@@ -1,5 +1,5 @@
 ---
-title: Come Healing / Leonard Cohen [Reproduced]
+title: 'Come Healing / Leonard Cohen [Reproduced]'
 date: 2021-07-23
 layout: post
 ---

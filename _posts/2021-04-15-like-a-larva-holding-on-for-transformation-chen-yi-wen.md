@@ -1,5 +1,5 @@
 ---
-title: Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced]
+title: 'Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced]'
 date: 2021-04-15
 layout: post
 ---
