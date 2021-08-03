@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>my blog</title>
-  <link rel="icon" href="https://cdn.jsdelivr.net/gh/hsywme/assets/images/rainbow.png"/>
-  <link rel="stylesheet" href="/blog/assets/style.css">
-</head>
-
-<body>
-<header>
-   <div class="site-title">
-    <a href="/blog"> my blog </a>
-   </div>
-</header>
-
-<div class="main">
-<div class="posts">
-  <div class="post-title">
-    <h1><a href="/blog/2021/04/15/like-a-larva-holding-on-for-transformation-chen-yi-wen.html"> Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced] </a></h1>
-  </div>
-  <div class="post-content">
-      <p>I would like you to</p>
+I"±<p>I would like you to</p>
 
 <p>firmly resist your weakness</p>
 
@@ -110,7 +86,7 @@
 
 <p><em>English version translated by <a href="https://en.wikipedia.org/wiki/Audrey_Tang">Audrey Tang</a>, the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.</em></p>
 
-<iframe width="640px" height="360px" src="https://www.youtube.com/embed/qATkXwppWAw?start=1877s" frameborder="0"></iframe>
+<iframe width="640px" height="100%" src="https://www.youtube.com/embed/qATkXwppWAw?start=1897s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <p><br /></p>
 
@@ -205,12 +181,4 @@
 <br />
 Sharing for learning purposes.
 </font>
-
-  </div>
-</div>
-</div>
-
-
- </body>
- </html>
-
+:ET
