@@ -1,5 +1,5 @@
 ---
-title: Some of my domains are for sale
+title: 'Some of my domains are for sale'
 date: 2020-06-18
 layout: post
 ---

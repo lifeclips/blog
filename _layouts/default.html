@@ -1,8 +1,5 @@
 {% include header.html %}
-
-
 <div class="main">
-
 {% for post in paginator.posts %}
 <div class="posts">
   <div class="post-title">
@@ -13,9 +10,7 @@
   </div>
 </div>
 {% endfor %}
-
 </div>
-
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   <div class="prev">
@@ -23,7 +18,6 @@
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous Page</a>
   {% endif %}
   </div>
-
   <div class="next">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next Page</a>
@@ -31,5 +25,4 @@
   </div>
 </div>
 {% endif %}
-
 {% include footer.html %}

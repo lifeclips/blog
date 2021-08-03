@@ -1,5 +1,5 @@
 ---
-title: I love reading blogs
+title: 'I love reading blogs'
 date: 2021-03-23
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: Not angry, just sad and disappointed
+title: 'Not angry, just sad and disappointed'
 date: 2021-05-14
 layout: post
 ---
