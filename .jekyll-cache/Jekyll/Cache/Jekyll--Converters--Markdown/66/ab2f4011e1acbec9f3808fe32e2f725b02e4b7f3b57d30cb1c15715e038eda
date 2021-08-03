@@ -1,0 +1,27 @@
+I"Ú	<p>The main page of my web is supporting dark mode with system control. It will automatically change color mode according to the system without any manual trigger.</p>
+
+<p>Just add a small clip below to main css file.</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">@media</span> <span class="p">(</span><span class="n">prefers-color-scheme</span><span class="p">:</span> <span class="n">dark</span><span class="p">)</span> <span class="p">{</span>
+
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>For Example:</p>
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">/* light mode */</span>
+<span class="nd">:root</span> <span class="p">{</span>
+    <span class="py">--main-color</span><span class="p">:</span> <span class="nb">rgb</span><span class="p">(</span><span class="m">222</span><span class="p">,</span> <span class="m">222</span><span class="p">,</span> <span class="m">222</span><span class="p">);</span>
+    <span class="py">--main-deep-color</span><span class="p">:</span> <span class="nb">rgb</span><span class="p">(</span><span class="m">197</span><span class="p">,</span> <span class="m">167</span><span class="p">,</span> <span class="m">167</span><span class="p">);</span>
+    <span class="py">--main-pink-color</span><span class="p">:</span> <span class="nb">rgb</span><span class="p">(</span><span class="m">238</span><span class="p">,</span> <span class="m">229</span><span class="p">,</span> <span class="m">229</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="c">/* dark mode */</span>
+<span class="k">@media</span> <span class="p">(</span><span class="n">prefers-color-scheme</span><span class="p">:</span> <span class="n">dark</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nd">:root</span> <span class="p">{</span>
+      <span class="py">--main-color</span><span class="p">:</span> <span class="m">#000</span><span class="p">;</span>
+      <span class="py">--main-pink-color</span><span class="p">:</span> <span class="nb">rgb</span><span class="p">(</span><span class="m">34</span><span class="p">,</span> <span class="m">32</span><span class="p">,</span> <span class="m">32</span><span class="p">);</span>
+      <span class="py">--main-deep-color</span><span class="p">:</span> <span class="m">#000</span><span class="p">;</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET
