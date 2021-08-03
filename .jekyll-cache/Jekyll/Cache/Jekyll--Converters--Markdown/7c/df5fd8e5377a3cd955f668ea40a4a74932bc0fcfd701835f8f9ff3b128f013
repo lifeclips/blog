@@ -1,15 +1,12 @@
-I"<p>I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.</p>
+I"<p>I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.</p>
 
-<pre>
-<code class="">
-; # = Win
+<pre><code class="language-prettyprint">; # = Win
 ; ! = Alt
 ; ^ = Ctrl
 ; + = Shift
 ; &amp; = Combine two keys into a shortcut
 
-; set Capslock key: long press to switch caps lock,
-;                   short press to switch input language
+; set Capslock key: long press to switch caps lock, short press to switch input language
 SetStoreCapslockMode, off
 CapsLock::
 If StartTime
@@ -103,8 +100,7 @@ Return
 $sc072::
 run rundll32.exe user32.dll`,LockWorkStation
 Return
-</code>
-</pre>
+</code></pre>
 
 <p><em>Script files on <a href="https://github.com/hsywme/autohotkey">Github</a></em></p>
 :ET
