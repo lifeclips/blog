@@ -92,7 +92,7 @@ reflecting pure light
 
 *English version translated by [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.*
 
-<iframe width="640px" height="360px" src="https://www.youtube.com/embed/qATkXwppWAw?start=1877s" frameborder="0"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/qATkXwppWAw?start=1877" width="640"></iframe>
 
 <br/>
 
