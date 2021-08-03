@@ -33,7 +33,7 @@ body {
 }
 
 a {
-  color: var(--light-link-color);
+  color: var(--light-title-color);
   text-decoration: none;
 }
 
@@ -45,10 +45,6 @@ a:hover {
 h1, h2, h3 {
   margin: 0;
   line-height: 1.25;
-  color: var(--light-title-color);
-}
-
-h1 a, h3 a {
   color: var(--light-title-color);
 }
 
