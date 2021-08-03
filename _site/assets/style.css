@@ -92,7 +92,7 @@ p {
   }
 
   a {
-    color: var(--dark-link-color);
+    color: var(--dark-title-color);
   }
 
   a:hover {
@@ -100,10 +100,6 @@ p {
   }
 
   h1, h2, h3 {
-    color: var(--dark-title-color);
-  }
-
-  h1 a, h3 a {
     color: var(--dark-title-color);
   }
 

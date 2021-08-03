@@ -103,10 +103,6 @@ p {
     color: var(--dark-title-color);
   }
 
-  h1 a, h3 a {
-    color: var(--dark-title-color);
-  }
-
   .site-title {
     color: var(--dark-title-color);
   }
