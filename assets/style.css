@@ -39,7 +39,6 @@ a {
 
 a:hover {
   color: var(--light-link-color);
-  text-decoration: underline;
 }
 
 h1, h2, h3 {
