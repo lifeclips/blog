@@ -24,11 +24,11 @@ return
 
 CapsLock up::
 TimeLength := A_TickCount - StartTime
-if (TimeLength &gt;= 1 and TimeLength &lt; 200)
+if (TimeLength >= 1 and TimeLength < 200)
 {
     Send, ^{Space}
 }
-else if (TimeLength &gt;= 200)
+else if (TimeLength >= 200)
 {
     Send, {CapsLock}
 }
@@ -110,4 +110,4 @@ run rundll32.exe user32.dll`,LockWorkStation
 Return
 ```
 
-Script files on [Github](https://github.com/hsywme/autohotkey)
+*Script files on [Github](https://github.com/hsywme/autohotkey)*

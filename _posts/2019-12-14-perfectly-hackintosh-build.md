@@ -3,6 +3,7 @@ title: Perfectly Hackintosh Build
 date: 2019-12-14
 layout: post
 ---
+
 CPU: Intel i7-9700
 
 Motherboard: MSI B360M Mortar
@@ -31,4 +32,4 @@ Mouse: Logitech G304 Wireless
 
 System: macOS Catalina 10.15.5 (19F101)
 
-EFI files on <a href="https://github.com/hsywme/Hackintosh-OC-EFI" data-type="URL" data-id="https://github.com/hsywme/Hackintosh-OC-EFI">Github</a>
+<em>EFI files on [Github](https://github.com/hsywme/Hackintosh-OC-EFI)</em>

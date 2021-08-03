@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-08-03T17:58:12+08:00</updated><id>/blog/feed.xml</id><title type="html">my blog</title><entry><title type="html">Marriage and childbearing</title><link href="/blog/2021/07/23/marriage-and-childbearing.html" rel="alternate" type="text/html" title="Marriage and childbearing" /><published>2021-07-23T00:00:00+08:00</published><updated>2021-07-23T00:00:00+08:00</updated><id>/blog/2021/07/23/marriage-and-childbearing</id><content type="html" xml:base="/blog/2021/07/23/marriage-and-childbearing.html">&lt;p&gt;My sister got married a few months ago and had a baby quickly just after that.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-08-03T19:15:00+08:00</updated><id>/blog/feed.xml</id><title type="html">my blog</title><entry><title type="html">Marriage and childbearing</title><link href="/blog/2021/07/23/marriage-and-childbearing.html" rel="alternate" type="text/html" title="Marriage and childbearing" /><published>2021-07-23T00:00:00+08:00</published><updated>2021-07-23T00:00:00+08:00</updated><id>/blog/2021/07/23/marriage-and-childbearing</id><content type="html" xml:base="/blog/2021/07/23/marriage-and-childbearing.html">&lt;p&gt;My sister got married a few months ago and had a baby quickly just after that.&lt;/p&gt;
 
 &lt;p&gt;In my eyes, she didn’t love his husband that much and so did her husband, just because the time came, and she naturally thinks she should get married like others. She met her current husband on a blind date. Through the introduction of a mutual friend, they knew each other for a while and then began to prepare to get married.&lt;/p&gt;
 
@@ -23,11 +23,11 @@ return
 
 CapsLock up::
 TimeLength := A_TickCount - StartTime
-if (TimeLength &amp;amp;gt;= 1 and TimeLength &amp;amp;lt; 200)
+if (TimeLength &amp;gt;= 1 and TimeLength &amp;lt; 200)
 {
     Send, ^{Space}
 }
-else if (TimeLength &amp;amp;gt;= 200)
+else if (TimeLength &amp;gt;= 200)
 {
     Send, {CapsLock}
 }
@@ -109,7 +109,7 @@ run rundll32.exe user32.dll`,LockWorkStation
 Return
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Script files on &lt;a href=&quot;https://github.com/hsywme/autohotkey&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.</summary></entry><entry><title type="html">People Should Remember More</title><link href="/blog/2021/07/04/people-should-remember-more.html" rel="alternate" type="text/html" title="People Should Remember More" /><published>2021-07-04T00:00:00+08:00</published><updated>2021-07-04T00:00:00+08:00</updated><id>/blog/2021/07/04/people-should-remember-more</id><content type="html" xml:base="/blog/2021/07/04/people-should-remember-more.html">&lt;p&gt;There are many memorable days in this short week, especially today. You can celebrate the great achievements of our country or your party, but it is more important to remember how many heartbreaking and tragic events are behind it. The anniversary is not a tool used by dictators to demonstrate their status and power but to remember those who were treated unfairly and made efforts and sacrifices for a better society.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Script files on &lt;a href=&quot;https://github.com/hsywme/autohotkey&quot;&gt;Github&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.</summary></entry><entry><title type="html">People Should Remember More</title><link href="/blog/2021/07/04/people-should-remember-more.html" rel="alternate" type="text/html" title="People Should Remember More" /><published>2021-07-04T00:00:00+08:00</published><updated>2021-07-04T00:00:00+08:00</updated><id>/blog/2021/07/04/people-should-remember-more</id><content type="html" xml:base="/blog/2021/07/04/people-should-remember-more.html">&lt;p&gt;There are many memorable days in this short week, especially today. You can celebrate the great achievements of our country or your party, but it is more important to remember how many heartbreaking and tragic events are behind it. The anniversary is not a tool used by dictators to demonstrate their status and power but to remember those who were treated unfairly and made efforts and sacrifices for a better society.&lt;/p&gt;
 
 &lt;p&gt;In today’s authoritarian and totalitarian society, it is surprising that praising the dictator for not being loud enough and even just remaining silent is considered a crime, not to mention the illusion that he himself would have an ounce of sympathy for those who have suffered injustice or even paid with their lives, that is impossible.&lt;/p&gt;
 
@@ -153,6 +153,8 @@ Return
 
 &lt;p&gt;droplet resisting breakup&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;I would like you to&lt;/p&gt;
 
 &lt;p&gt;balance your inner beauty&lt;/p&gt;
@@ -162,6 +164,8 @@ Return
 &lt;p&gt;a quatrain on a yellowed paper scroll:&lt;/p&gt;
 
 &lt;p&gt;“a still night, an empty spring mountain”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;I would like you to&lt;/p&gt;
 
@@ -177,6 +181,8 @@ Return
 
 &lt;p&gt;embracing the absolution of a storm&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;Then, maybe you would be willing&lt;/p&gt;
 
 &lt;p&gt;to walk through a declining border town&lt;/p&gt;
@@ -189,6 +195,8 @@ Return
 
 &lt;p&gt;dignity and cold lifelessness&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;Sometimes, life is&lt;/p&gt;
 
 &lt;p&gt;as quietly beautiful as a poem, as desolate as a vine&lt;/p&gt;
@@ -197,6 +205,8 @@ Return
 
 &lt;p&gt;as lonely as a dust-covered stele&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;And so time passes, places alter, faces change&lt;/p&gt;
 
 &lt;p&gt;it has been a long journey&lt;/p&gt;
@@ -204,6 +214,8 @@ Return
 &lt;p&gt;we return to the room we set off from&lt;/p&gt;
 
 &lt;p&gt;origin and destination curl into a perfect ring&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;I shall recognize the look in your eyes after calibration:&lt;/p&gt;
 
@@ -215,13 +227,13 @@ Return
 
 &lt;p&gt;reflecting pure light&lt;/p&gt;
 
-&lt;p&gt;— English version translated by &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://en.wikipedia.org/wiki/Audrey_Tang&quot; target=&quot;_blank&quot;&gt;Audrey Tang&lt;/a&gt;, the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.&lt;figure class=&quot;wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-&lt;/div&gt;
-&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;English version translated by &lt;a href=&quot;https://en.wikipedia.org/wiki/Audrey_Tang&quot;&gt;Audrey Tang&lt;/a&gt;, the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;像蛹忍住蝶--陳依文&quot;&gt;像蛹忍住蝶 / 陳依文&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;像蛹忍住蝶 / 陳依文&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;我想請你&lt;/p&gt;
 
@@ -233,6 +245,8 @@ Return
 
 &lt;p&gt;一枚水滴忍住破散&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;我想請你&lt;/p&gt;
 
 &lt;p&gt;平衡內在的美麗&lt;/p&gt;
@@ -242,6 +256,8 @@ Return
 &lt;p&gt;泛黃的紙卷上&lt;/p&gt;
 
 &lt;p&gt;夜靜春山空的一首五絕&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;我想請你&lt;/p&gt;
 
@@ -257,6 +273,8 @@ Return
 
 &lt;p&gt;擁抱一場暴風雨的告解&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;然後，或許你願意&lt;/p&gt;
 
 &lt;p&gt;走上沒落的邊城&lt;/p&gt;
@@ -269,6 +287,8 @@ Return
 
 &lt;p&gt;尊嚴與肅殺&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;生命有時&lt;/p&gt;
 
 &lt;p&gt;靜美如詩，荒涼如蔓&lt;/p&gt;
@@ -277,6 +297,8 @@ Return
 
 &lt;p&gt;寂寞如碑蒙塵&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;至末時移、境遷，容顏更改&lt;/p&gt;
 
 &lt;p&gt;旅途得很久了&lt;/p&gt;
@@ -284,6 +306,8 @@ Return
 &lt;p&gt;我們回到出發時的房間&lt;/p&gt;
 
 &lt;p&gt;原點與終點繞成完美的環&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;我將認出你標定後的眼神&lt;/p&gt;
 
@@ -295,13 +319,11 @@ Return
 
 &lt;p&gt;反射出簡淨的光芒&lt;/p&gt;
 
-&lt;p class=&quot;has-small-font-size&quot;&gt;
-  [END]
-&lt;/p&gt;
-
-&lt;p class=&quot;has-small-font-size&quot;&gt;
-  &lt;em&gt;* Sharing for learning purposes.&lt;/em&gt;
-&lt;/p&gt;</content><author><name></name></author><summary type="html">I would like you to</summary></entry><entry><title type="html">I love reading blogs</title><link href="/blog/2021/03/23/i-love-reading-blogs.html" rel="alternate" type="text/html" title="I love reading blogs" /><published>2021-03-23T00:00:00+08:00</published><updated>2021-03-23T00:00:00+08:00</updated><id>/blog/2021/03/23/i-love-reading-blogs</id><content type="html" xml:base="/blog/2021/03/23/i-love-reading-blogs.html">&lt;p&gt;I love reading blogs, especially their About Me pages. By browsing other people’s stories and feeling the path of their lives, I can rethink myself differently.&lt;/p&gt;
+&lt;font size=&quot;2&quot;&gt;
+[END]
+&lt;br /&gt;
+Sharing for learning purposes.
+&lt;/font&gt;</content><author><name></name></author><summary type="html">I would like you to</summary></entry><entry><title type="html">I love reading blogs</title><link href="/blog/2021/03/23/i-love-reading-blogs.html" rel="alternate" type="text/html" title="I love reading blogs" /><published>2021-03-23T00:00:00+08:00</published><updated>2021-03-23T00:00:00+08:00</updated><id>/blog/2021/03/23/i-love-reading-blogs</id><content type="html" xml:base="/blog/2021/03/23/i-love-reading-blogs.html">&lt;p&gt;I love reading blogs, especially their About Me pages. By browsing other people’s stories and feeling the path of their lives, I can rethink myself differently.&lt;/p&gt;
 
 &lt;p&gt;I am a small-town boy. Unlike those boys who seem to be lively, I am not too interested in most things. Even with some of the popular recreational activities, I also quickly get bored. When it came to studying, it’s the same. I know that learning is fundamental, especially in the Chinese college entrance examination environment. But I don’t think I work very hard, and I keep on the benchmark line for every subject to avoid failing. But all in all, in the end, I was admitted to a university that was not very good but only around the baseline.&lt;/p&gt;
 
@@ -326,7 +348,7 @@ Return
 &lt;ul&gt;
   &lt;li&gt;Mostly in Chinese:
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.foreverblog.cn/&quot;&gt;https://foreverblog.cn&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.foreverblog.cn/&quot;&gt;https://www.foreverblog.cn/&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://github.com/volfclub/travellings&quot;&gt;https://github.com/volfclub/travellings&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -339,7 +361,7 @@ Return
 
 &lt;p&gt;Remember the old you, cheerful, lively, never sad about miscellaneous things. Look at your back, looking at your arms, are so charming. I missed that moment when you carried me on your back; I missed that smile when you fed me; I missed that sincerity when you talked about the problem for me. I and you, the alternation of hearts, is the basis of our friendship.&lt;/p&gt;
 
-&lt;p&gt;I have few friends. I remember meeting you in the heavy rain at the beginning of high school without knowing you, and you smiled at me, and I was hooked. Although I didn’t share a table with you during the three-day entrance education, I always looked back at you and sitting in the first row. I just made a terrible impression on the teacher. At the time of enrollment, the teacher said, “xx! I used to have a student named xx, so Tian!” At first, I didn’t understand, but then I realized that Tian meant naughty. The next day, I was warned by the teacher, but it didn’t help, I still looked at you. After a few weeks, finally, I sat behind you, looking at the gray hair on your head. I think it is also too hard to study, perhaps like me, and because of the miss. Another chance coincidence, I became a table with you, always passive I also took the initiative to approach you, do the usual table will do things, you like to stay up late, and sometimes doze off, I became your little sentry. Although I do not stay up late, I also have the habit of dozing off, but looking at you sleeping, I no longer want to sleep. At that time, we were inseparable, perhaps the closest friends in the world. I saw you as loving as a lover. I laughed with you and cried with you, even though you never cried.&lt;/p&gt;
+&lt;p&gt;I have few friends. I remember meeting you in the heavy rain at the beginning of high school without knowing you, and you smiled at me, and I was hooked. Although I didn’t share a table with you during the three-day entrance education, I always looked back at you and sitting in the first row. I just made a terrible impression on the teacher. At the time of enrollment, the teacher said, “xx! I used to have a student named xx, so &lt;em&gt;Tian&lt;/em&gt;!” At first, I didn’t understand, but then I realized that &lt;em&gt;Tian&lt;/em&gt; meant naughty. The next day, I was warned by the teacher, but it didn’t help, I still looked at you. After a few weeks, finally, I sat behind you, looking at the gray hair on your head. I think it is also too hard to study, perhaps like me, and because of the miss. Another chance coincidence, I became a table with you, always passive I also took the initiative to approach you, do the usual table will do things, you like to stay up late, and sometimes doze off, I became your little sentry. Although I do not stay up late, I also have the habit of dozing off, but looking at you sleeping, I no longer want to sleep. At that time, we were inseparable, perhaps the closest friends in the world. I saw you as loving as a lover. I laughed with you and cried with you, even though you never cried.&lt;/p&gt;
 
 &lt;p&gt;I tell you everything about me, and you tell me your sorrows. I understand you, but you can’t see through me, and I don’t know if that’s why we’re estranged. Fate ran out, and you were placed in the top left corner of the classroom while I was in the top right corner. I panicked, and for some reason, I also privately begged the teacher to move me back, even if it was just a little closer, a little closer. You quickly made new friends, and the extremely introverted me was at a loss for words. My new deskmate was nice and civil, except that my thoughts of you had long since drowned out the sound of his voice calling me. Mornings, afternoons, any time we were supposed to be together, we went nowhere. Our communication, movements, and even eyes are less and less, gradually fading away, far away. Now you, more and more gray hair, I know you still like to stay up late, but you never dozed off again while I was in place, fell asleep, and never woke up. I know we can’t go back; I hope you’re well; I wish you happiness.&lt;/p&gt;
 
@@ -347,9 +369,10 @@ Return
 
 &lt;p&gt;I only wish you happiness, health, and going well.&lt;/p&gt;
 
-&lt;p class=&quot;has-small-font-size&quot;&gt;
-  &lt;br /&gt;&lt;br /&gt;* The Wood and Soil &amp;#8220;木土&amp;#8221; is my pen name for this article. Initially published in &lt;em&gt;Qicao Literature &amp;#8211; The Sprout&lt;/em&gt; of the 36th issue of &lt;em&gt;Colorful Stones&lt;/em&gt; on May 30, 2015.
-&lt;/p&gt;</content><author><name></name></author><summary type="html">I don’t know when our relationship faded. Maybe I wasn’t your best friend, but you were my best. Maybe not that accident, we will not change, not as cold as now.</summary></entry><entry><title type="html">Dark Mode Support</title><link href="/blog/2020/12/13/dark-mode-support.html" rel="alternate" type="text/html" title="Dark Mode Support" /><published>2020-12-13T00:00:00+08:00</published><updated>2020-12-13T00:00:00+08:00</updated><id>/blog/2020/12/13/dark-mode-support</id><content type="html" xml:base="/blog/2020/12/13/dark-mode-support.html">&lt;p&gt;The main page of my web is supporting dark mode with system control. It will automatically change color mode according to the system without any manual trigger.&lt;/p&gt;
+&lt;font size=&quot;2&quot;&gt;
+&lt;em&gt;The Wood and Soil &quot;木土&quot; is my pen name for this article. Initially published in &lt;em&gt;Qicao Literature - The Sprout&lt;/em&gt; of the 36th issue of &lt;em&gt;Colorful Stones&lt;/em&gt; on May 30, 2015.
+&lt;/em&gt;
+&lt;/font&gt;</content><author><name></name></author><summary type="html">I don’t know when our relationship faded. Maybe I wasn’t your best friend, but you were my best. Maybe not that accident, we will not change, not as cold as now.</summary></entry><entry><title type="html">Dark Mode Support</title><link href="/blog/2020/12/13/dark-mode-support.html" rel="alternate" type="text/html" title="Dark Mode Support" /><published>2020-12-13T00:00:00+08:00</published><updated>2020-12-13T00:00:00+08:00</updated><id>/blog/2020/12/13/dark-mode-support</id><content type="html" xml:base="/blog/2020/12/13/dark-mode-support.html">&lt;p&gt;The main page of my web is supporting dark mode with system control. It will automatically change color mode according to the system without any manual trigger.&lt;/p&gt;
 
 &lt;p&gt;Just add a small clip below to main css file.&lt;/p&gt;
 

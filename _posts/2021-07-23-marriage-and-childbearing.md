@@ -3,6 +3,7 @@ title: Marriage and childbearing
 date: 2021-07-23
 layout: post
 ---
+
 My sister got married a few months ago and had a baby quickly just after that.
 
 In my eyes, she didn’t love his husband that much and so did her husband, just because the time came, and she naturally thinks she should get married like others. She met her current husband on a blind date. Through the introduction of a mutual friend, they knew each other for a while and then began to prepare to get married.

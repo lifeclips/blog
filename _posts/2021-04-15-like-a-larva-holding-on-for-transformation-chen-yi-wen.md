@@ -3,6 +3,7 @@ title: 'Like a larva holding on for transformation / Chen, Yi-Wen [Reproduced]'
 date: 2021-04-15
 layout: post
 ---
+
 I would like you to
 
 firmly resist your weakness
@@ -13,7 +14,7 @@ a newly splashed
 
 droplet resisting breakup  
 
-
+<br/>
 
 I would like you to
 
@@ -23,9 +24,9 @@ like the structure of a snowflake, the four petals of a finger tree flower
 
 a quatrain on a yellowed paper scroll:
 
-“a still night, an empty spring mountain”  
+"a still night, an empty spring mountain"  
 
-
+<br/>
 
 I would like you to
 
@@ -41,7 +42,7 @@ like the ocean
 
 embracing the absolution of a storm  
 
-
+<br/>
 
 Then, maybe you would be willing
 
@@ -55,7 +56,7 @@ see all the bustle and transience
 
 dignity and cold lifelessness  
 
-
+<br/>
 
 Sometimes, life is
 
@@ -65,7 +66,7 @@ as intense as a soaring eagle
 
 as lonely as a dust-covered stele  
 
-
+<br/>
 
 And so time passes, places alter, faces change
 
@@ -75,7 +76,7 @@ we return to the room we set off from
 
 origin and destination curl into a perfect ring  
 
-
+<br/>
 
 I shall recognize the look in your eyes after calibration:
 
@@ -87,19 +88,13 @@ roundly, in a dark room
 
 reflecting pure light  
 
+<br/>
 
+*English version translated by [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.*
 
-&#8212; English version translated by <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Audrey_Tang" target="_blank">Audrey Tang</a>, the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<br/>
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
-
-
-
-
-### 像蛹忍住蝶 / 陳依文  
-
-
+**像蛹忍住蝶 / 陳依文**
 
 我想請你
 
@@ -111,7 +106,7 @@ reflecting pure light
 
 一枚水滴忍住破散  
 
-
+<br/>
 
 我想請你
 
@@ -123,7 +118,7 @@ reflecting pure light
 
 夜靜春山空的一首五絕  
 
-
+<br/>
 
 我想請你
 
@@ -139,7 +134,7 @@ reflecting pure light
 
 擁抱一場暴風雨的告解  
 
-
+<br/>
 
 然後，或許你願意
 
@@ -153,7 +148,7 @@ reflecting pure light
 
 尊嚴與肅殺  
 
-
+<br/>
 
 生命有時
 
@@ -163,7 +158,7 @@ reflecting pure light
 
 寂寞如碑蒙塵  
 
-
+<br/>
 
 至末時移、境遷，容顏更改
 
@@ -173,7 +168,7 @@ reflecting pure light
 
 原點與終點繞成完美的環  
 
-
+<br/>
 
 我將認出你標定後的眼神
 
@@ -185,13 +180,8 @@ reflecting pure light
 
 反射出簡淨的光芒
 
-
-
-
-<p class="has-small-font-size">
-  [END]
-</p>
-
-<p class="has-small-font-size">
-  <em>* Sharing for learning purposes.</em>
-</p>
+<font size="2">
+[END]
+<br/>
+Sharing for learning purposes.
+</font>
