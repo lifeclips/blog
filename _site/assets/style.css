@@ -85,6 +85,12 @@ p {
   float: right;
 }
 
+@media screen and (max-width: 640px) {
+  body {
+      padding: 0 5%;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: var(--dark-color);
