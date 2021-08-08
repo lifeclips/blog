@@ -8,7 +8,7 @@ The main page of my web is supporting dark mode with system control. It will aut
 
 Just add a small clip below to main css file.
 
-```
+``` css
 @media (prefers-color-scheme: dark) {
 
 }
@@ -16,7 +16,7 @@ Just add a small clip below to main css file.
 
 For Example:
 
-```
+``` css
 /* light mode */
 :root {
     --main-color: rgb(222, 222, 222);

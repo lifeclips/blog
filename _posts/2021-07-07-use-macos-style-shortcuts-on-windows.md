@@ -6,7 +6,7 @@ layout: post
 
 I use both Mac and Windows PC in my daily usage. The different shortcut layouts between them cause me some trouble when switching platforms. You can use AutoHotKey to set the Windows shortcut layouts to macOS style.
 
-```
+``` autohotkey
 ; # = Win
 ; ! = Alt
 ; ^ = Ctrl
