@@ -32,8 +32,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
-markdown: kramdown
-highlighter: rouge
+permalink: /:title.html
 
 # Build settings
 
