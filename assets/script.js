@@ -9,7 +9,7 @@ if(window.matchMedia('(prefers-color-scheme: light)').matches){
 }
 
 let listeners={
-  dark:(mediaQueryList )=>{
+  dark:(mediaQueryList)=>{
     if(mediaQueryList.matches){
       theme.href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/github-dark-dimmed.min.css";
     }
