@@ -4,9 +4,11 @@ date: 2020-08-30
 layout: post
 ---
 
-**The power of child-abuse pediatric specialists and parents' unequal journey toward justice**
+<center>
+<strong>The power of child-abuse pediatric specialists and parents' unequal journey toward justice</strong>
 
 <font size="2">By STEPHANIE CLIFFORD</font>
+</center>
 
 * <u>pediatric</u> n. the branch of medicine concerned with children and their diseases
 * <u>specialists</u> n. a person who is an expert in a particular area of work or study
@@ -62,9 +64,10 @@ Child abuse is a pervasive and complex problem: Few children or abusers report h
 * <u>suspect</u> v. to have an idea that sth is probably true or likely to happen, especially sth bad, but without having definite proof
 * <u>determine</u> v. to discover the facts about sth; to calculate sth exactly
 
+<br>
 <font size="2">
 [END]
-<br/>
+<br>
 This article has some deletions. Please click the source link to read the full article.
 Source: <a href="https://www.themarshallproject.org/2020/08/20/two-families-two-fates-when-the-misdiagnosis-is-child-abuse">Stephanie Clifford from The Atlantic & Weihua Li from The Marshall Project.</a> Sharing for learning purposes.
 </font>
