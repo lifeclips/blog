@@ -3,12 +3,11 @@ title: 'Two Families, Two Fates: When the Misdiagnosis is Child Abuse [Reproduce
 date: 2020-08-30
 layout: post
 ---
-<p>
+
 <center>
 <p><strong>The power of child-abuse pediatric specialists and parents' unequal journey toward justice</strong></p>
 <p><font size="2">By STEPHANIE CLIFFORD</font></p>
 </center>
-</p>
 
 * <u>pediatric</u> n. the branch of medicine concerned with children and their diseases
 * <u>specialists</u> n. a person who is an expert in a particular area of work or study
