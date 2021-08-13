@@ -3,11 +3,10 @@ title: 'Two Families, Two Fates: When the Misdiagnosis is Child Abuse [Reproduce
 date: 2020-08-30
 layout: post
 ---
-
 <p>
 <center>
-<strong>The power of child-abuse pediatric specialists and parents' unequal journey toward justice</strong>
-<font size="2">By STEPHANIE CLIFFORD</font>
+<p><strong>The power of child-abuse pediatric specialists and parents' unequal journey toward justice</strong></p>
+<p><font size="2">By STEPHANIE CLIFFORD</font></p>
 </center>
 </p>
 
