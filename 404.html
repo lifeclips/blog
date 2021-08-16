@@ -6,39 +6,19 @@ permalink: /404.html
 <html lang="en">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="https://cdn.jsdelivr.net/gh/hsywme/assets/images/rainbow.png"/>
+<link rel="stylesheet" href="/blog/assets/style.css">
 <title>404</title>
-    <style>
-        html, body {
-            margin: 0;
-            background-color: #222;
-            color: #aaa;
-            font-family: 'Hack', monospace
-        }
-
-        .full-height {
-            height: 100vh
-        }
-
-        .flex-center {
-            align-items: center;
-            display: flex;
-            justify-content: center
-        }
-
-        #error_text {
-            font-size: 2em
-        }
-    </style>
 </head>
 
 <body>
-<div class="flex-center full-height">
-    <span id="error_text">404: Not Found</span>
+<div class="error">
+    <span id="error-text">404: Not Found</span>
 </div>
 
 <script>
     'use strict';
-    const $errorText = document.getElementById('error_text'),
+    const $errorText = document.getElementById('error-text'),
         text = $errorText.innerText,
         characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-=+<>,./?[{()}]!@#$%^&*~`\|'.split('');
     let progress = 0;

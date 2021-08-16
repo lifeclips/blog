@@ -85,6 +85,17 @@ p {
   float: right;
 }
 
+.error {
+  height: 100vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#error-text {
+  font-size: 2em
+}
+
 @media screen and (max-width: 640px) {
   body {
       padding: 0 5%;
