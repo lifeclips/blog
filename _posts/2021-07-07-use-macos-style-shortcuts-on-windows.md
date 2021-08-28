@@ -13,7 +13,7 @@ I use both Mac and Windows PC in my daily usage. The different shortcut layouts 
 ; + = Shift
 ; & = Combine two keys into a shortcut
 
-; set Capslock key works like macOS
+; setting Capslock key works like macOS
 ; long press to switch caps lock, short press to switch input language
 SetStoreCapslockMode, off
 CapsLock::
@@ -35,7 +35,7 @@ else if (TimeLength >= 200)
 StartTime := ""
 return
 
-; open links in new window
+; open link in new window
 $!LButton::
 SendInput {Ctrl Down}{LButton}{Ctrl Up} 
 Return
@@ -75,8 +75,8 @@ $!r::
 SendInput {Ctrl Down}{r}{Ctrl Up} 
 Return
 
-; forced refresh
-$!+r:: 
+; force refresh
+$!+r::
 SendInput {Ctrl Down}{Shift Down}{r}{Shift Up}{Ctrl Up} 
 Return
 
