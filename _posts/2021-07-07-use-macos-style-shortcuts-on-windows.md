@@ -70,6 +70,11 @@ $!n::
 SendInput {Ctrl Down}{n}{Ctrl Up} 
 Return
 
+; quit app
+$!q:: 
+SendInput {Alt Down}{F4}{Alt Up} 
+Return
+
 ; refresh
 $!r:: 
 SendInput {Ctrl Down}{r}{Ctrl Up} 
@@ -93,11 +98,6 @@ Return
 ; open last closed tab
 $!+t:: 
 SendInput {Ctrl Down}{Shift Down}{t}{Shift Up}{Ctrl Up} 
-Return
-
-; quit app
-$!q:: 
-SendInput {Alt Down}{F4}{Alt Up} 
 Return
 
 ; paste
