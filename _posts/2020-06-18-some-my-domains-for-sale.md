@@ -16,3 +16,5 @@ All of my domains are below:
 * ~~[ifr.pw](http://ifr.pw)~~
 
 You can find me here: [hi[at]mrwang.org](mailto:hi@mrwang.org).
+
+*This list will not be updated in real time, please check the availability of each domain yourself.*
