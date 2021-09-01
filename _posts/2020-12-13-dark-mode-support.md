@@ -1,5 +1,5 @@
 ---
-title: 'Dark Mode Support'
+title: Dark Mode Support
 date: 2020-12-13
 layout: post
 ---

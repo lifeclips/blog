@@ -1,5 +1,5 @@
 ---
-title: 'When we are old'
+title: When we are old
 date: 2020-03-27
 layout: post
 ---

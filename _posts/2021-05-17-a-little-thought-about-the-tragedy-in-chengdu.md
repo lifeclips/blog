@@ -1,5 +1,5 @@
 ---
-title: 'A little thought about the tragedy in Chengdu'
+title: A little thought about the tragedy in Chengdu
 date: 2021-05-17
 layout: post
 ---

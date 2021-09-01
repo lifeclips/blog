@@ -1,5 +1,5 @@
 ---
-title: 'Use macOS style shortcuts on Windows'
+title: Use macOS style shortcuts on Windows
 date: 2021-07-07
 layout: post
 ---

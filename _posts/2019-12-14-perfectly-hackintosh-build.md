@@ -1,5 +1,5 @@
 ---
-title: 'Perfectly Hackintosh Build'
+title: Perfectly Hackintosh Build
 date: 2019-12-14
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'People Should Remember More'
+title: People Should Remember More
 date: 2021-07-04
 layout: post
 ---
