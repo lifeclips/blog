@@ -1,5 +1,5 @@
 ---
-title: Two Families, Two Fates: When the Misdiagnosis is Child Abuse [Reproduced]
+title: "Two Families, Two Fates: When the Misdiagnosis is Child Abuse <sup>[Reproduced]</sup>"
 date: 2020-08-30
 layout: post
 ---

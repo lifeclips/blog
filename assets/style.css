@@ -85,6 +85,10 @@ p {
   float: right;
 }
 
+sup {
+  font-size: 0.5em;
+}
+
 @media screen and (max-width: 640px) {
   body {
       padding: 0 5%;

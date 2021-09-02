@@ -1,5 +1,5 @@
 ---
-title: Come Healing / Leonard Cohen [Reproduced]
+title: "Come Healing / Leonard Cohen <sup>[Reproduced]</sup>"
 date: 2021-08-03
 layout: post
 ---
