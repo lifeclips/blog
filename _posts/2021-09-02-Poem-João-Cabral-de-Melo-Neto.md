@@ -28,7 +28,7 @@ For twenty years I've not said the word
 
 I always expect from me.
 
-I´ll go on indefinitely gazing
+I'll go on indefinitely gazing
 
 at the portrait of me, dead.
 
@@ -36,7 +36,6 @@ at the portrait of me, dead.
 
 *English version translated by W. S. Merwin.*
 
-<br>
 <font size="2">
 [END]
 <br/>
