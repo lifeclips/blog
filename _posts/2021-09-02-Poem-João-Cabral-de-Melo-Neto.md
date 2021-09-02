@@ -1,5 +1,5 @@
 ---
-title: Poem / João Cabral de Melo Neto [Reproduced]
+title: Poem / João Cabral de Melo Neto <sup>[Reproduced]</sup>
 date: 2021-08-03
 layout: post
 ---
