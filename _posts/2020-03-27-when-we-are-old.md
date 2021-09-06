@@ -16,9 +16,5 @@ Silently…
 
 I don't know how long it took, but we didn't reunite after all. God knows where you are, and the wind will carry my thoughts to you.  
 
-<br>
-<font size="2">
-<em>
-From a rambling thought on the way home during my high school.
-</em>
-<font>
+*From a rambling thought on the way home during my high school.*
+

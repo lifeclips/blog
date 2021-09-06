@@ -229,8 +229,10 @@ Come healing of the limb
 來，治癒四肢
 
 <br>
+<p>
 <font size="2">
 [END]
 <br/>
 Sharing for learning purposes.
 </font>
+</p>

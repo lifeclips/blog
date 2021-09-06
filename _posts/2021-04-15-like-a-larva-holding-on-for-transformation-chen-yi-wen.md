@@ -183,8 +183,10 @@ reflecting pure light
 反射出簡淨的光芒
 
 <br>
+<p>
 <font size="2">
 [END]
 <br>
 Sharing for learning purposes.
 </font>
+</p>

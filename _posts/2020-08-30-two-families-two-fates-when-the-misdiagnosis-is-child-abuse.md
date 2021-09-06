@@ -64,9 +64,11 @@ Child abuse is a pervasive and complex problem: Few children or abusers report h
 * <u>determine</u> v. to discover the facts about sth; to calculate sth exactly
 
 <br>
+<p>
 <font size="2">
 [END]
 <br>
 This article has some deletions. Please click the source link to read the full article.
 Source: <a href="https://www.themarshallproject.org/2020/08/20/two-families-two-fates-when-the-misdiagnosis-is-child-abuse">Stephanie Clifford from The Atlantic & Weihua Li from The Marshall Project.</a> Sharing for learning purposes.
 </font>
+</p>

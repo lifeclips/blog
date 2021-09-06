@@ -36,8 +36,10 @@ at the portrait of me, dead.
 
 *English version translated by W. S. Merwin.*
 
+<p>
 <font size="2">
 [END]
 <br/>
 Sharing for learning purposes.
 </font>
+</p>
