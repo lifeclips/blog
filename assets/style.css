@@ -59,7 +59,7 @@ p {
 
 .posts {
   padding-top: 25px;
-  padding-bottom: 25px;
+  padding-bottom: 50px;
   border-bottom: 1px solid var(--light-border-color);
   margin-bottom: 25px;
 }
