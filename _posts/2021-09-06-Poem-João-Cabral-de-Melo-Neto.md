@@ -1,6 +1,6 @@
 ---
 title: "Poem / João Cabral de Melo Neto <sup>[Reproduced]</sup>"
-date: 2021-08-03
+date: 2021-09-06
 layout: post
 ---
 
