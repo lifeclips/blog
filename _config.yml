@@ -2,6 +2,6 @@ title: my blog
 baseurl: "/blog"
 url: ""
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 3
 paginate_path: "page/:num"
 permalink: /:title.html
