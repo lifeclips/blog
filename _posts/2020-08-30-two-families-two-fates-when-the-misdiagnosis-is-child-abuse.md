@@ -69,6 +69,7 @@ Child abuse is a pervasive and complex problem: Few children or abusers report h
 [END]
 <br>
 This article has some deletions. Please click the source link to read the full article.
-Source: <a href="https://www.themarshallproject.org/2020/08/20/two-families-two-fates-when-the-misdiagnosis-is-child-abuse">Stephanie Clifford from The Atlantic & Weihua Li from The Marshall Project.</a> Sharing for learning purposes.
+Source: <a href="https://www.themarshallproject.org/2020/08/20/two-families-two-fates-when-the-misdiagnosis-is-child-abuse">Stephanie Clifford from The Atlantic & Weihua Li from The Marshall Project.</a>
+Sharing for learning purposes.
 </font>
 </p>
