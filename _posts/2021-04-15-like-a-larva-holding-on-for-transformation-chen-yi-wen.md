@@ -26,65 +26,44 @@ a quatrain on a yellowed paper scroll:
 
 <br>
 
-I would like you to
-
-tolerate the secrets of a narcissus
-
-forgive the twists of a moonlit river
-
-look straight at the murky sky as rain falls down
-
-just like listening to a naked prayer
-
-like the ocean
-
-embracing the absolution of a storm  
+I would like you to  
+tolerate the secrets of a narcissus  
+forgive the twists of a moonlit river  
+look straight at the murky sky as rain falls down  
+just like listening to a naked prayer  
+like the ocean  
+embracing the absolution of a storm    
 
 <br/>
 
-Then, maybe you would be willing
-
-to walk through a declining border town
-
-through a prosperous metropolis
-
-see life, see death
-
-see all the bustle and transience
-
-dignity and cold lifelessness  
-
+Then, maybe you would be willing  
+to walk through a declining border town  
+through a prosperous metropolis  
+see life, see death  
+see all the bustle and transience  
+dignity and cold lifelessness    
+  
 <br/>
 
-Sometimes, life is
-
-as quietly beautiful as a poem, as desolate as a vine
-
-as intense as a soaring eagle
-
-as lonely as a dust-covered stele  
+Sometimes, life is  
+as quietly beautiful as a poem, as desolate as a vine  
+as intense as a soaring eagle  
+as lonely as a dust-covered stele    
 
 <br/>
 
 And so time passes, places alter, faces change
-
 it has been a long journey
-
 we return to the room we set off from
-
 origin and destination curl into a perfect ring  
 
 <br/>
 
-I shall recognize the look in your eyes after calibration:
-
-clear, unswerving
-
-like steel beads that do not rust
-
-roundly, in a dark room
-
-reflecting pure light  
+I shall recognize the look in your eyes after calibration:  
+clear, unswerving  
+like steel beads that do not rust  
+roundly, in a dark room  
+reflecting pure light    
 
 <br/>
 
@@ -96,89 +75,60 @@ reflecting pure light
 
 **像蛹忍住蝶 / 陳依文**
 
-我想請你
-
-堅強地忍住脆弱
-
-像蛹忍住蝶，楓葉忍住秋天
-
-新濺下的
-
-一枚水滴忍住破散  
+我想請你  
+堅強地忍住脆弱  
+像蛹忍住蝶，楓葉忍住秋天  
+新濺下的  
+一枚水滴忍住破散    
 
 <br/>
 
-我想請你
-
-平衡內在的美麗
-
-如雪花的結構、流蘇的四瓣
-
-泛黃的紙卷上
-
-夜靜春山空的一首五絕  
+我想請你  
+平衡內在的美麗  
+如雪花的結構、流蘇的四瓣  
+泛黃的紙卷上  
+夜靜春山空的一首五絕    
 
 <br/>
 
-我想請你
-
-寬容一株水仙的祕密
-
-原宥一條月江的曲折
-
-直視陰雨直落的灰霾天空
-
-如同傾聽一句赤裸的禱詞
-
-像海洋
-
-擁抱一場暴風雨的告解  
+我想請你  
+寬容一株水仙的祕密  
+原宥一條月江的曲折  
+直視陰雨直落的灰霾天空  
+如同傾聽一句赤裸的禱詞  
+像海洋  
+擁抱一場暴風雨的告解    
 
 <br/>
 
-然後，或許你願意
-
-走上沒落的邊城
-
-繁華的都心
-
-看看生，看看死
-
-看看一切熱鬧與無常
-
-尊嚴與肅殺  
+然後，或許你願意  
+走上沒落的邊城  
+繁華的都心  
+看看生，看看死  
+看看一切熱鬧與無常  
+尊嚴與肅殺    
 
 <br/>
 
-生命有時
-
-靜美如詩，荒涼如蔓
-
-激越如鷹翱翔
-
-寂寞如碑蒙塵  
+生命有時  
+靜美如詩，荒涼如蔓  
+激越如鷹翱翔  
+寂寞如碑蒙塵    
 
 <br/>
 
-至末時移、境遷，容顏更改
-
-旅途得很久了
-
-我們回到出發時的房間
-
-原點與終點繞成完美的環  
+至末時移、境遷，容顏更改  
+旅途得很久了  
+我們回到出發時的房間  
+原點與終點繞成完美的環    
 
 <br/>
 
-我將認出你標定後的眼神
-
-洗鍊貞定
-
-如不鏽的鋼珠
-
-圓整地，於暗室中
-
-反射出簡淨的光芒
+我將認出你標定後的眼神  
+洗鍊貞定  
+如不鏽的鋼珠  
+圓整地，於暗室中  
+反射出簡淨的光芒  
 
 <br>
 <p>
