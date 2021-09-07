@@ -22,93 +22,66 @@ Come healing of the mind
 
 <br/>
 
-And let the heavens hear it
-
-The penitential hymn
-
-Come healing of the spirit
-
-Come healing of the limb
+And let the heavens hear it  
+The penitential hymn  
+Come healing of the spirit  
+Come healing of the limb  
 
 <br/>
 
-Behold the gates of mercy
-
-In arbitrary space
-
-And none of us deserving
-
-The cruelty or the grace
+Behold the gates of mercy  
+In arbitrary space  
+And none of us deserving  
+The cruelty or the grace  
 
 <br/>
 
-O solitude of longing
-
-Where love has been confined
-
-Come healing of the body
-
-Come healing of the mind
+O solitude of longing   
+Where love has been confined   
+Come healing of the body   
+Come healing of the mind   
 
 <br/>
 
-O see the darkness yielding
+O see the darkness yielding  
+That tore the light apart  
+Come healing of the reason  
+Come healing of the heart  
 
-That tore the light apart
-
-Come healing of the reason
-
-Come healing of the heart
+<br/>
+  
+O troubled dust concealing  
+An undivided love  
+The Heart beneath is teaching  
+To the broken Heart above  
 
 <br/>
 
-O troubled dust concealing
-
-An undivided love
-
-The Heart beneath is teaching
-
-To the broken Heart above
+O let the heavens falter  
+And let the earth proclaim:  
+Come healing of the Altar  
+Come healing of the Name  
 
 <br/>
 
-O let the heavens falter
-
-And let the earth proclaim:
-
-Come healing of the Altar
-
-Come healing of the Name
+O longing of the branches  
+To lift the little bud  
+O longing of the arteries  
+To purify the blood  
 
 <br/>
 
-O longing of the branches
-
-To lift the little bud
-
-O longing of the arteries
-
-To purify the blood
+And let the heavens hear it  
+The penitential hymn  
+Come healing of the spirit  
+Come healing of the limb  
 
 <br/>
 
-And let the heavens hear it
-
-The penitential hymn
-
-Come healing of the spirit
-
-Come healing of the limb
-
-<br/>
-
-O let the heavens hear it
-
-The penitential hymn
-
-Come healing of the spirit
-
-Come healing of the limb
+O let the heavens hear it  
+The penitential hymn  
+Come healing of the spirit  
+Come healing of the limb  
 
 <br>
 
@@ -132,93 +105,66 @@ Come healing of the limb
 
 <br/>
 
-就讓上天聽聞
-
-懺悔的聖詩
-
-來，治癒靈魂
-
-來，治癒四肢
+就讓上天聽聞  
+懺悔的聖詩  
+來，治癒靈魂  
+來，治癒四肢  
 
 <br/>
 
-慈悲的門廊
-
-隨處可見
-
-你我都配不上
-
-殘酷或恩典
+慈悲的門廊  
+隨處可見  
+你我都配不上  
+殘酷或恩典  
 
 <br/>
 
-渴望的孤寂裡
-
-愛被禁制
-
-來，治癒身體
-
-來，治癒神智
+渴望的孤寂裡  
+愛被禁制  
+來，治癒身體  
+來，治癒神智  
 
 <br/>
 
-看黑暗屈服前
-
-撕裂了光
-
-來，治癒理念
-
-來，治癒感傷
+看黑暗屈服前  
+撕裂了光  
+來，治癒理念  
+來，治癒感傷  
 
 <br/>
 
-紛亂灰塵遮著
-
-完整的愛
-
-下界的心教著
-
-上蒼破碎的心
+紛亂灰塵遮著  
+完整的愛  
+下界的心教著  
+上蒼破碎的心  
 
 <br/>
 
-讓天空震顫
-
-大地揚聲：
-
-來，治癒聖壇
-
-來，治癒聖名
+讓天空震顫  
+大地揚聲：  
+來，治癒聖壇  
+來，治癒聖名  
 
 <br/>
 
-枝椏的渴望
-
-將嫩芽提拔
-
-動脈的渴望
-
-將血液淨化
+枝椏的渴望  
+將嫩芽提拔  
+動脈的渴望  
+將血液淨化  
 
 <br/>
 
-就讓上天聽聞
-
-懺悔的聖詩
-
-來，治癒靈魂
-
-來，治癒四肢
+就讓上天聽聞  
+懺悔的聖詩  
+來，治癒靈魂  
+來，治癒四肢  
 
 <br/>
 
-噢，讓上天聽聞
-
-懺悔的聖詩
-
-來，治癒靈魂
-
-來，治癒四肢
+噢，讓上天聽聞  
+懺悔的聖詩  
+來，治癒靈魂  
+來，治癒四肢  
 
 <br>
 <p>
