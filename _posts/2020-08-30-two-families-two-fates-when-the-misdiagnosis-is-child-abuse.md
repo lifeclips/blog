@@ -4,7 +4,7 @@ date: 2020-08-30
 layout: post
 ---
 
-## The power of child-abuse pediatric specialists and parents' unequal journey toward justice  
+**The power of child-abuse pediatric specialists and parents' unequal journey toward justice**  
 *By STEPHANIE CLIFFORD (United States)*
 
 * <u>pediatric</u> n. the branch of medicine concerned with children and their diseases
