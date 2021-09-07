@@ -4,7 +4,7 @@ date: 2021-08-03
 layout: post
 ---
 
-*By Leonard Cohen*  
+*By Leonard Cohen (Canada)*  
 
 O gather up the brokenness  
 And bring it to me now  
@@ -68,7 +68,7 @@ Come healing of the limb
 <br>
 
 **來，治癒**  
-*李歐納·柯恩*
+*李歐納·柯恩 (加拿大)*
 
 撿起這殘破  
 來給我帶上  

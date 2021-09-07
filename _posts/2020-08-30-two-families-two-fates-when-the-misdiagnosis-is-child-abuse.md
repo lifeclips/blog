@@ -5,7 +5,7 @@ layout: post
 ---
 
 ## The power of child-abuse pediatric specialists and parents' unequal journey toward justice  
-*By STEPHANIE CLIFFORD*
+*By STEPHANIE CLIFFORD (United States)*
 
 * <u>pediatric</u> n. the branch of medicine concerned with children and their diseases
 * <u>specialists</u> n. a person who is an expert in a particular area of work or study

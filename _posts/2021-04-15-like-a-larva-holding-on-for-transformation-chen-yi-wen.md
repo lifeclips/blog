@@ -4,7 +4,7 @@ date: 2021-04-15
 layout: post
 ---
 
-*By Chen, Yi-Wen*
+*By Chen, Yi-Wen (Taiwan)*
 
 I would like you to  
 firmly resist your weakness  
@@ -58,7 +58,7 @@ reflecting pure light
 <br>
 
 **像蛹忍住蝶**  
-*陳依文*
+*陳依文 (臺灣)*
 
 我想請你  
 堅強地忍住脆弱  
