@@ -40,10 +40,10 @@ as quietly beautiful as a poem, as desolate as a vine
 as intense as a soaring eagle  
 as lonely as a dust-covered stele    
 
-And so time passes, places alter, faces change
-it has been a long journey
-we return to the room we set off from
-origin and destination curl into a perfect ring  
+And so time passes, places alter, faces change  
+it has been a long journey  
+we return to the room we set off from  
+origin and destination curl into a perfect ring    
 
 I shall recognize the look in your eyes after calibration:  
 clear, unswerving  
