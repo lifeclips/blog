@@ -1,32 +1,30 @@
 ---
-title: "Like a larva holding on for transformation / Chen, Yi-Wen <sup>[Reproduced]</sup>"
+title: "Like a larva holding on for transformation <sup>[Reproduced]</sup>"
 date: 2021-04-15
 layout: post
 ---
 
-I would like you to
+*By Chen, Yi-Wen*
 
-firmly resist your weakness
+<br>
 
-like a chrysalis holding back a butterfly, a maple leaf resisting the autumn
+I would like you to  
+firmly resist your weakness  
+like a chrysalis holding back a butterfly, a  
+maple leaf resisting the autumn  
+a newly splashed  
+droplet resisting breakup   
 
-a newly splashed
-
-droplet resisting breakup  
-
-<br/>
-
-I would like you to
-
-balance your inner beauty
-
-like the structure of a snowflake, the four petals of a finger tree flower
-
-a quatrain on a yellowed paper scroll:
-
+<br>
+  
+I would like you to  
+balance your inner beauty  
+like the structure of a snowflake, the four   
+petals of a finger tree flower  
+a quatrain on a yellowed paper scroll:  
 "a still night, an empty spring mountain"  
 
-<br/>
+<br>
 
 I would like you to
 

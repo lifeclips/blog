@@ -1,26 +1,24 @@
 ---
-title: "Come Healing / Leonard Cohen <sup>[Reproduced]</sup>"
+title: "Come Healing <sup>[Reproduced]</sup>"
 date: 2021-08-03
 layout: post
 ---
 
-O gather up the brokenness
-
-And bring it to me now
-
-The fragrance of those promises
-
-You never dared to vow
+*By Leonard Cohen*  
 
 <br/>
 
-The splinters that you carry
+O gather up the brokenness  
+And bring it to me now  
+The fragrance of those promises  
+You never dared to vow  
 
-The cross you left behind
+<br/>
 
-Come healing of the body
-
-Come healing of the mind
+The splinters that you carry  
+The cross you left behind  
+Come healing of the body  
+Come healing of the mind  
 
 <br/>
 
@@ -112,31 +110,25 @@ Come healing of the spirit
 
 Come healing of the limb
 
-<br/>
+<br>
 
 *Chinese version translated by [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), the first transgender and the first non-binary official minister without portfolio of Taiwan Executive Yuan.*
 
-<br/>
+<br>
 
 **來，治癒 / 李歐納·柯恩**
 
-撿起這殘破
-
-來給我帶上
-
-你從來不敢承諾的
-
-誓言的芬芳
+撿起這殘破  
+來給我帶上  
+你從來不敢承諾的  
+誓言的芬芳  
 
 <br/>
 
-你背負的荊棘
-
-留下的十字
-
-來，治癒身體
-
-來，治癒神智
+你背負的荊棘  
+留下的十字  
+來，治癒身體  
+來，治癒神智  
 
 <br/>
 
