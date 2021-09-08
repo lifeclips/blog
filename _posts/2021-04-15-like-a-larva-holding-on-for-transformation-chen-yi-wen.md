@@ -108,6 +108,6 @@ reflecting pure light
 <font size="2">
 [END]
 <br>
-Sharing for learning purposes.
+Share for learning purposes.
 </font>
 </p>
