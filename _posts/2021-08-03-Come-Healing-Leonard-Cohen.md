@@ -7,7 +7,7 @@ layout: post
 *By Leonard Cohen (Canada)*  
 
 O gather up the brokenness  
-And bring it to me now  
+And bring it to me now
 The fragrance of those promises  
 You never dared to vow  
 
