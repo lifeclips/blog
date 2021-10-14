@@ -16,6 +16,4 @@ Some people say that a friend is a lover, the meaning of a friend is a relative,
 
 I only wish you happiness, health, and going well.
 
-*The Wood and Soil "木土" is my pen name for this article. Initially published in Qicao Literature - The Sprout of the 36th issue of Colorful Stones on May 30, 2015.*
-
-
+*Mu Tu "木土", literally means The Wood and Soil, is my pen name for this article. Initially published in Qicao Literature - The Sprout of the 36th issue of Colorful Stones on May 30, 2015.*
