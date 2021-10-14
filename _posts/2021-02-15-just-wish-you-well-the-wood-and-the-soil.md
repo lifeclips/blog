@@ -1,5 +1,5 @@
 ---
-title: "Just wish you well / the Wood and Soil"
+title: "Just wish you well / Mu Tu"
 date: 2021-02-15
 layout: post
 ---
