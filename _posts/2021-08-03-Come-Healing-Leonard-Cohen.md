@@ -1,5 +1,5 @@
 ---
-title: "Come Healing <sup>[Reproduced]</sup>"
+title: "Come Healing"
 date: 2021-08-03
 layout: post
 ---
