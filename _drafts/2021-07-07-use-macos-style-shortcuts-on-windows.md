@@ -141,4 +141,4 @@ run rundll32.exe user32.dll`,LockWorkStation
 Return
 ```
 
-*Script files on [Github](https://github.com/hsywme/autohotkey)*
+*Script files on [Github](https://github.com/lifeclips/autohotkey)*

@@ -32,4 +32,4 @@ Mouse: Logitech G304 Wireless
 
 System: macOS Catalina 10.15.5 (19F101)
 
-*EFI files on [Github](https://github.com/hsywme/Hackintosh-OC-EFI)*
+*EFI files on [Github](https://github.com/lifeclips/Hackintosh-OC-EFI)*
