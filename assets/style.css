@@ -52,7 +52,6 @@ a::before {
 }
 
 a:hover::before {
-  color: var(--light-link-color);
   transform-origin: 0% 50%;
   transform: scale3d(1, 1, 1);
 }
