@@ -120,9 +120,9 @@ sup {
     color: var(--dark-title-color);
   }
 
-  a:hover {
+  /* a:hover {
     color: var(--dark-link-color);
-  }
+  } */
 
   h1, h2, h3 {
     color: var(--dark-title-color);
