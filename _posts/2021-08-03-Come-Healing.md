@@ -130,6 +130,6 @@ Come healing of the limb
 <font size="2">
 [END]
 <br>
-Shared for learning purposes.
+Shared for learning purposes. All rights belong to their respective owners.
 </font>
 </p>
