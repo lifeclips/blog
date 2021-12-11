@@ -32,19 +32,6 @@ body {
   margin-right: auto;
 }
 
-.color {
-  width: 6px;
-  height: 6px;
-  position: absolute;
-  top: 0px;
-  background-color: #E23838;
-  box-shadow: 6px 0 #F78200,
-              12px 0 #FFB900,
-              18px 0 #5EBD3E,
-              24px 0 #009CDF,
-              30px 0 #973999;
-}
-
 a {
   color: var(--light-title-color);
   text-decoration: none;
