@@ -61,7 +61,7 @@ a:hover::before {
 }
 
 .site-title a::before {
-  background: linear-gradient(90deg, rgba(226,56,56,1) 0%, rgba(247,130,0,1) 20%, rgba(255,185,0,1) 40%, rgba(94,189,62,1) 60%, rgba(0,156,223,1) 80%, rgba(151,57,153,1) 100%);
+  background: linear-gradient(135deg, rgba(226,56,56,1) 0%, rgba(247,130,0,1) 20%, rgba(255,185,0,1) 40%, rgba(94,189,62,1) 60%, rgba(0,156,223,1) 80%, rgba(151,57,153,1) 100%);
 }
 
 h1, h2, h3 {
