@@ -24,7 +24,7 @@ Let me talk about other things. My age and family may ask me to live according t
 
 I always strangely feel scared and peaceful at the same time.
 
-And there are some collections I explore more blogs:
+And there are some collections where I explore more blogs:
 
 * Most in Chinese:
   * <https://www.foreverblog.cn/>
