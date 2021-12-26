@@ -26,8 +26,8 @@ I always strangely feel scared and peaceful at the same time.
 
 And there are some collections I explore more blogs:
 
-* In Chinese:
+* Most in Chinese:
   * <https://www.foreverblog.cn/>
   * <https://github.com/volfclub/travellings>
-* In English:
+* Most in English:
   * <https://github.com/XXIIVV/webring>
