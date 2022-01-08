@@ -36,8 +36,9 @@ Do you find it all right, my dragonfly?
 "Shall we look at the moon, my little loon?  
 Why do you cry?  
 Make the most of your life, while it is rife  
-While it is light  
-Well, you do enough talk  
+While it is light"  
+
+"Well, you do enough talk  
 My little hawk, why do you cry?  
 Tell me, what did you learn from the Tillamook burn?  
 Or the Fourth of July?  
