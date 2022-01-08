@@ -1,0 +1,57 @@
+---
+title: "We're all gonna die."
+date: 2021-12-25
+layout: post
+---
+
+*Fourth of July*
+*Lyrics by Sufjan Stevens (USA)*
+
+The evil, it spread like a fever ahead  
+It was night when you died, my firefly  
+What could I have said to raise you from the dead?  
+Oh, could I be the sky on the Fourth of July?  
+
+"Well, you do enough talk  
+My little hawk, why do you cry?  
+Tell me, what did you learn from the Tillamook burn?  
+Or the Fourth of July?  
+We’re all gonna die"  
+
+Sitting at the bed with the halo at your head  
+Was it all a disguise, like junior high?  
+Where everything was fiction, future, and prediction  
+Now, where am I? My fading supply  
+
+"Did you get enough love, my little dove?  
+Why do you cry?  
+And I’m sorry I left, but it was for the best  
+Though it never felt right  
+My little Versailles"  
+
+The hospital asked, "Should the body be cast?"  
+Before I say goodbye, my star in the sky  
+Such a funny thought to wrap you up in cloth  
+Do you find it all right, my dragonfly?  
+
+
+"Shall we look at the moon, my little loon?  
+Why do you cry?  
+Make the most of your life, while it is rife  
+While it is light  
+Well, you do enough talk  
+My little hawk, why do you cry?  
+Tell me, what did you learn from the Tillamook burn?  
+Or the Fourth of July?  
+We’re all gonna die"  
+
+We're all gonna die  
+
+<br>
+<p>
+<font size="2">
+[END]
+<br>
+Shared for learning purposes. All rights belong to their respective owners.
+</font>
+</p>
