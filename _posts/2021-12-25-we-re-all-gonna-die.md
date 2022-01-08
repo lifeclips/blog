@@ -4,8 +4,8 @@ date: 2021-12-25
 layout: post
 ---
 
-*Fourth of July*
-*Lyrics by Sufjan Stevens (USA)*
+**Fourth of July**
+*Lyrics by [Sufjan Stevens](https://en.wikipedia.org/wiki/Sufjan_Stevens) (USA)*
 
 The evil, it spread like a fever ahead  
 It was night when you died, my firefly  

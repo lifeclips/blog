@@ -4,7 +4,7 @@ date: 2021-08-03
 layout: post
 ---
 
-*By Leonard Cohen (Canada)*  
+*By [Leonard Cohen](https://en.wikipedia.org/wiki/Leonard_Cohen) (Canada)*  
 
 O gather up the brokenness  
 And bring it to me now  

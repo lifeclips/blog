@@ -4,7 +4,7 @@ date: 2021-04-15
 layout: post
 ---
 
-*By Chen, Yi-Wen (Taiwan)*
+*By [Chen, Yi-Wen](https://en.wikipedia.org/wiki/Chen_Yi-wen) (Taiwan)*
 
 I would like you to  
 firmly resist your weakness  
