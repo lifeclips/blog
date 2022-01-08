@@ -4,7 +4,6 @@ date: 2021-12-25
 layout: post
 ---
 
-**Fourth of July**  
 *Lyrics by [Sufjan Stevens](https://en.wikipedia.org/wiki/Sufjan_Stevens) (USA)*
 
 The evil, it spread like a fever ahead  
@@ -14,7 +13,7 @@ Oh, could I be the sky on the Fourth of July?
 
 "Well, you do enough talk  
 My little hawk, why do you cry?  
-Tell me, what did you learn from the Tillamook burn?  
+Tell me, what did you learn from the [Tillamook burn](https://en.wikipedia.org/wiki/Tillamook_Burn)?  
 Or the Fourth of July?  
 We’re all gonna die"  
 
@@ -33,7 +32,6 @@ The hospital asked, "Should the body be cast?"
 Before I say goodbye, my star in the sky  
 Such a funny thought to wrap you up in cloth  
 Do you find it all right, my dragonfly?  
-
 
 "Shall we look at the moon, my little loon?  
 Why do you cry?  
