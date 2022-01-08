@@ -4,7 +4,7 @@ date: 2021-12-25
 layout: post
 ---
 
-**Fourth of July**
+**Fourth of July**  
 *Lyrics by [Sufjan Stevens](https://en.wikipedia.org/wiki/Sufjan_Stevens) (USA)*
 
 The evil, it spread like a fever ahead  
