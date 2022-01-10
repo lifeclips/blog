@@ -4,7 +4,7 @@ date: 2021-05-17
 layout: post
 ---
 
-What happened to the student and the final results are not about what is finally announced, nor the CCTV camera system has malfunctioned even nowadays under the big data of AI-controlled society, nor whether there is a "The Top One" presiding the justice, but about in this very today of 2021, their first idea about things happened is still covering it up. In the face of public suspicion, there is not any independent and convincing third-party investigation. The truth is still determined only by the ​"stability first" policy, which began decades ago.
+What happened to the student and the final results are not about what is finally announced, nor the CCTV camera system has malfunctioned even nowadays under the big data of AI-controlled society, nor whether there is a "The Top One" presiding the justice, but about in this very today of 2021, their first idea about things happened is still covering it up. In the face of public suspicion, there is not any independent and convincing third-party investigation. The truth is still determined only by the "stability first" policy, which began decades ago.
 
 In today's modernized economy, PRC is not North Korea or Cuba, so why should the media be tightly controlled? Why should people's daily communication and public opinion be monitored and censored by big data? Where is the self-confidence of the system of our great nation that propagandized everywhere? The supporters have always desperately defended the ruler but despised his so-called compatriots. They have forgotten why few countries around the world have such censorship and control. In their eyes, the people were only worthy of being supervised, censored, and indoctrinated information.
 
