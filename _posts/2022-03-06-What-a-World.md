@@ -1,5 +1,5 @@
 ---
-title: "What a World"
+title: "What a World!"
 date: 2022-03-06
 layout: post
 ---
