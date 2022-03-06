@@ -16,7 +16,7 @@
 }
 
 @font-face {
-    font-family: 'Proxima Soft';
+    font-family: 'Proxima Soft', 'PingFang TC', 'PingFang SC', sans-serif;
     src: url("https://cdn.jsdelivr.net/gh/lifeclips/assets/fonts/Proxima-Soft.ttf");
 }
 
