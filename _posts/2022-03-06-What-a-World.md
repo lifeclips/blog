@@ -8,7 +8,7 @@ You can't be angry here
 Otherwise  
 You will be in anger all the time  
 And anger won't help  
-Except Faint proof that  
+Except for the pale proof that  
 Your heart has not yet  
 Turned into iron  
 Into concrete  
