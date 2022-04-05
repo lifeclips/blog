@@ -24,5 +24,3 @@ Like they used to
 But right now you feel  
 It's a shame to be happy  
 It's a shame to live quietly  
-
-[#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)🇺🇦
