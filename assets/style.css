@@ -26,7 +26,7 @@ body {
   line-height: 1.7;
   color: var(--light-color);
   background-color: var(--light-bgcolor);
-	max-width: 640px;
+  max-width: 640px;
   margin: 0;
   margin-left: auto;
   margin-right: auto;
