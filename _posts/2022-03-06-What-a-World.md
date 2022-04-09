@@ -19,7 +19,7 @@ You wake up on a warm morning
 There's no chain around your neck  
 Last night you weren't among the people fleeing  
 No bombs flying in your sky  
-The flowers in your window greet spring
+The flowers in your window greet spring  
 Like they used to  
 But right now you feel  
 It's a shame to be happy  
