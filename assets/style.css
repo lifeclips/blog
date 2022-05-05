@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-@import url('https://fonts.googleapis.com/css2?family=Radio+Canada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 :root {
   --light-color: #1d1d1f;
@@ -18,7 +18,7 @@
 }
 
 body {
-  font-family: 'Radio Canada', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 16px;
   line-height: 1.7;
   color: var(--light-color);
