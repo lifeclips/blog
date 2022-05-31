@@ -1,19 +1,19 @@
 ---
-title: "Mother's Day for mother"
+title: "母亲节前夕"
 date: 2022-05-07
 layout: post
 ---
 
-Tomorrow is Mother's Day, but the day before Mother's Day I saw another life pass. One by one, the passing lives seemed to give me a different feeling and a peaceful reflection. I also seem to feel the peace, relaxation and freedom of the future for them, and they will no longer have to suffer in this world.
+明天就是母亲节了，但在母亲节的前一天我看到了另一个生命的逝去。一个接一个，不断逝去的生命似乎给了我别样的感受和一份平静思考。我似乎也为他们感受到了未来的宁静、放松与自由，再不必受这世间的煎熬了。
 
-Whenever people on the Internet say, "You are not afraid of death, are you still afraid of living?" Of course, there is no real empathy in the world. As far as I'm concerned, I don't criticize or support the actions they choose, I'm just happy for them, their choice was a courageous step, courage I never had, and I'm relieved for them. The world is impermanent, I have not experienced their life, I have not experienced their torment, naturally I can't comment on their choices. I just envy them for having such courage. Indeed, when I got to the same position in person, I didn't take that step, and I turned around crying and ran back, and no one knew. Continue to live according to the perspective of ordinary people, and continue to do everything that has nothing to do with me.
+每当网络众人说道“死你都不怕，还怕活着吗？”当然了，世间没有真正的感同身受。于我而言，我不会批判或支持他们选择的行为，我只会为他们感到高兴，他们的选择是很有勇气的一步，我不曾拥有的勇气，同时我也为他们感到欣慰。世事无常，我没有经历过他们的生活，没有经历他们的煎熬，自然我无法对他们的选择评头论足。我只很羡慕他们能有这样的勇气。确实啊，当我亲身达到同样的位置时，我没能踏出那一步，而哭着调头跑了回来，没有人知道。按照常人的视角继续生活，继续进行着这与我无关的一切。
 
-I don't know who I am, and I don't know who I live for. But I think mother is always the default option, I love my mother very much.
+我不知道我是谁，我也不知道我为了谁而生活。但我想母亲总是一个永远的默认选项吧，我很爱我的母亲。
 
-In recent years, I have been instilling various ideas of "modern independent women" into my mother. For example, if she can have her own life, I encourage her to get out of that unhappy marriage, go to another city to relax, find her own feeling, make herself more integrated into the modern society, and stop doing what he can't for the man she doesn't like. Comprehension is worthless. My mother deserves her own life, a life that is free, understood, and respected, without having to do more things that go against the heart for those who don't know how to be grateful. I often encourage her, go, live for yourself, don't be submissive to others, throw away any people and things you can't stand, and find your own happiness.
+近几年我不断向母亲灌输着“现代独立女性”的各种思想。诸如她能有自己的生活，我鼓励她走出那一段不愉快的婚姻，去一个其他的城市散散心，寻找自我的感觉，让自己更加融入现代社会，不要再为自己不喜欢的男人做出他不能理解的无谓付出了。我的母亲值得拥有她自己的生活，自由的、被人理解的、被人尊重的生活，不必再为不懂得感恩的人做出更多违背内心的事了。我经常鼓励她，去吧，为自己而活，不必曲于人下，丢掉任何你忍受不了的人和事，去寻找属于自己的那一份快乐。
 
-This year's Mother's Day is also the first "celibate" Mother's Day in the true sense of my mother. She lives alone in another city, happy or sad. I hope she is happy. I hope that I can accompany her, but unfortunately, she still has her studies in her body and cannot achieve it, but then I think that she also has her own social circle in another city, she has her own friends to talk to, and has her own world that she can use freely. Maybe she doesn't need my company at all that she has never had and experienced in the past. My company has restrained her hard-won freedom for her, and perhaps I was also a part of her. Thinking of this, I also found an excuse for my absence. I called my mother with peace of mind and expressed my complete support for her.
+今年的母亲节也是母亲真正意义上的第一个“独身”母亲节，她独自一人在另一个城市或快乐或悲伤的生活着，我希望她快乐。我希望自己能去陪伴她，无奈仍有学业在身无法实现，但转念一想她在另一个城市也有了自己的社交圈，有自己的朋友可以倾诉，有自己的世界可以任意挥洒，这也是过去她不曾拥有和体验过的，或许她根本不需要我的陪伴，我的陪伴对她反而束缚了她这来之不易的自由，或许我也是曾禁锢她的一部分。如此一想，我也为自己的缺席找到了一丝借口，心安理得的向母亲打去了电话，表达了我对她的完全支持。
 
-I don’t know if the foreshadowing I’m making now is to make my mother adapt more quickly to my continued absence in the future. I know that this is a huge blow to a mother. I don’t know how to make up for it, and I don’t know how to mitigate it. influence, but I believe that anyone should live only for themselves, and it is fragile to rely on others as the meaning of one's life. No one can't give up, no one can affect me. I hope my mother likes and accepts the philosophy of life I want to convey to her.
+我不知道我现在所作的铺垫是不是为了能让母亲更快的适应我未来的继续缺席，我知道这对一个母亲的打击是巨大的，我不知道如何弥补，也不知道该如何减轻对她的影响，但我相信任何人都应只为自己而活，依靠别人作为自己生命的意义是脆弱的。没有谁不能抛弃，没有谁能影响到我。希望母亲能喜欢并接纳我想传达给她的生活哲学。
 
-I am such a terrible son.
+我真是一个糟糕的儿子。
