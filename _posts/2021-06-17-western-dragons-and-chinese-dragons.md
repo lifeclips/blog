@@ -1,5 +1,5 @@
 ---
-title: "Western Dragons and Chinese Dragons?"
+title: "Western Dragons and Chinese Dragons"
 date: 2021-06-17
 layout: post
 ---
