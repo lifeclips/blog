@@ -4,7 +4,7 @@ date: 2021-12-25
 layout: post
 ---
 
-*Lyrics by [Sufjan Stevens](https://en.wikipedia.org/wiki/Sufjan_Stevens) (USA)*
+*Lyrics by [Sufjan Stevens](https://en.wikipedia.org/wiki/Sufjan_Stevens)*
 
 The evil, it spread like a fever ahead  
 It was night when you died, my firefly  
