@@ -60,14 +60,11 @@ a:hover::before {
 
 .site-title a::before {
   /*background: linear-gradient(135deg, rgba(226,56,56,1) 0%, rgba(247,130,0,1) 20%, rgba(255,185,0,1) 40%, rgba(94,189,62,1) 60%, rgba(0,156,223,1) 80%, rgba(151,57,153,1) 100%);*/
-  background: linear-gradient(135deg, rgb(113, 59, 43) 0%, 
-                                      rgb(226, 39, 39) 12.5%, 
-                                      rgb(241, 120, 62) 25%, 
-                                      rgb(255, 154, 166) 37.5%, 
-                                      rgb(255, 204, 0) 50%, 
-                                      rgb(79, 209, 160) 62.5%, 
-                                      rgb(159, 204, 251) 75%, 
-                                      rgb(25, 113, 195) 87.5%, 
+  background: linear-gradient(135deg, rgb(226, 39, 39) 0%,
+                                      rgb(241, 120, 62) 20%, 
+                                      rgb(255, 204, 0) 40%, 
+                                      rgb(79, 209, 160) 60%, 
+                                      rgb(25, 113, 195) 80%, 
                                       rgb(79, 25, 103) 100%);
 }
 
