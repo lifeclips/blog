@@ -60,12 +60,12 @@ a:hover::before {
 
 .site-title a::before {
     /*background: linear-gradient(135deg, rgba(226,56,56,1) 0%, rgba(247,130,0,1) 20%, rgba(255,185,0,1) 40%, rgba(94,189,62,1) 60%, rgba(0,156,223,1) 80%, rgba(151,57,153,1) 100%);*/
-    background: linear-gradient(135deg, #E23838 0%,
-                                        #F78200 20%, 
-                                        #FFB900 40%, 
-                                        #5EBD3E 60%, 
-                                        #009CDF 80%, 
-                                        #973999 100%);
+    background: linear-gradient(135deg, #de6991 0%,
+                                        #f09440 20%, 
+                                        #ffbf43 40%, 
+                                        #72bc94 60%, 
+                                        #4395f1 80%, 
+                                        #966da4 100%);
 }
 
 h1, h2, h3 {
