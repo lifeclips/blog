@@ -1,27 +1,27 @@
 {% include header.html %}
 <div class="main">
-{% for post in paginator.posts %}
-<div class="posts">
-  <div class="post-title">
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  {% for post in paginator.posts %}
+  <div class="posts">
+    <div class="post-title">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    </div>
+    <div class="post-content">
+      {{ post.content }}
+    </div>
   </div>
-  <div class="post-content">
-    {{ post.content }}
-  </div>
-</div>
-{% endfor %}
+  {% endfor %}
 </div>
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   <div class="prev">
-  {% if paginator.previous_page %}
+    {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous Page</a>
-  {% endif %}
+    {% endif %}
   </div>
   <div class="next">
-  {% if paginator.next_page %}
+    {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next Page</a>
-  {% endif %}
+    {% endif %}
   </div>
 </div>
 {% endif %}

@@ -26,10 +26,10 @@ In arbitrary space
 And none of us deserving  
 The cruelty or the grace  
 
-O solitude of longing   
-Where love has been confined   
-Come healing of the body   
-Come healing of the mind   
+O solitude of longing
+Where love has been confined
+Come healing of the body
+Come healing of the mind
 
 O see the darkness yielding  
 That tore the light apart  
